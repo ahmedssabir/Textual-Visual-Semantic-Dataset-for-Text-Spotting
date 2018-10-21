@@ -18,10 +18,10 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 - Run `Extract_BBox.m` file 1 bounding box file 2 full image 
 
 
-![Cropped text images](https://github.com/sabirdvd/Extracting_BBox_visual_information/blob/master/COCO_train2014_000000000081_s.jpg)
+![Cropped text images](https://github.com/ahmedssabir/dataset/blob/master/COCO_train2014_000000000081_s.jpg)
 
 
-![full image](https://github.com/sabirdvd/Extracting_BBox_visual_information/blob/master/COCO_train2014_000000000081.jpg)
+![full image](https://github.com/ahmedssabir/dataset/blob/master/COCO_train2014_000000000081.jpg)
 
 [3]: https://www.mathworks.com/campaigns/products/trials.html
 [1]:http://www.vlfeat.org/matconvnet/install/
