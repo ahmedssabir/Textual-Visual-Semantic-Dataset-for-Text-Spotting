@@ -60,7 +60,7 @@ if __name__ == '__main__':
     file_name = str(img['file_name'])
     
     # save to file  full image 
-    io.imsave('/media/asabir/Data1/coco_image/%s'%file_name.format(loop), I)
+    io.imsave('/coco_image/%s'%file_name.format(loop), I)
  
     # getting the json  file that assocated with ID
     annIds = ct.getAnnIds(imgIds=img['id'])
@@ -68,7 +68,7 @@ if __name__ == '__main__':
     ct.showAnns(anns)
    
     # write annotation to spearte file 
-    f= open('/media/asabir/Data1/coco_image/ann_coco_Image/%s.txt'%file_name.format(loop),'w')
+    f= open('/coco_image/ann_coco_Image/%s.txt'%file_name.format(loop),'w')
 
     gt = str(anns)
     f.write(gt)
