@@ -3,7 +3,7 @@ This dataset have been used in this paper:
 
 Visual Re-ranking with Natural Language Understanding for Text Spotting
 
-This dataset is based on [COCO-text], Please visit https://github.com/andreasveit/coco-text. COCO-text is based on Microsoft COCO Please visit http://mscoco.org/ for more information on COCO, including the image data, object annotatins and caption annotations.
+This dataset is based on [COCO-text], Please visit https://github.com/andreasveit/coco-text. COCO-text is based on Microsoft COCO Please visit http://mscoco.org/ for more information on COCO-dataset, including the image data, object annotatins and caption annotations.
 
 [COCO-text]:https://github.com/andreasveit/coco-text
 ## 1 - Extracting  full images with bounding box (gt) from COCO-text
