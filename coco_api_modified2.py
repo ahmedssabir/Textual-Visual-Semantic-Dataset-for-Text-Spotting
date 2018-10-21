@@ -20,9 +20,8 @@ if __name__ == '__main__':
 
   for loop in range(0, 2): # loop and pick random pictures   
 
-#API offers some basic infos of the dataset.
-    #ct = coco_text.COCO_Text('/media/asabir/Data1/COCO_Data_set/test2015/images/test2015/COCO_Text.json')
-    ct = coco_text.COCO_Text('/media/asabir/Data1/COCO_Data_set/COCO_Text.json')
+#API offers some basic infos of the dataset.   
+    ct = coco_text.COCO_Text('/COCO_Data_set/COCO_Text.json')
     ct.info()
 
     #Select annotations and images based on filter criteria
