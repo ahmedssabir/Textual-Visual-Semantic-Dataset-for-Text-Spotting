@@ -1,7 +1,7 @@
-#  Visual Reranking with Natural Language Understanding for Text Spotting (Dataset)
+#  Visual Re-ranking with Natural Language Understanding for Text Spotting (Dataset)
 This dataset have been used in this paper: 
 
-Visual Reranking with Natural Language Understanding for Text Spotting
+Visual Re-ranking with Natural Language Understanding for Text Spotting
 
 This dataset is based on [COCO-text], Please visit https://github.com/andreasveit/coco-text. COCO-text is based on Microsoft COCO Please visit http://mscoco.org/ for more information on COCO, including the image data, object annotatins and caption annotations.
 
