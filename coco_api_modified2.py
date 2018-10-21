@@ -38,7 +38,7 @@ if __name__ == '__main__':
                         areaRng=[0,200])
 
     
-    dataDir='/media/asabir/Data1/COCO_Data_set'
+    dataDir='/Data1/COCO_Data_set'
     dataType='train2014'
    
    
