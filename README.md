@@ -1,5 +1,6 @@
 #  Visual Re-ranking with Natural Language Understanding for Text Spotting (Dataset)
-This dataset have been used in this paper: 
+
+This dataset has been used in this paper:
 
 Visual Re-ranking with Natural Language Understanding for Text Spotting
 
