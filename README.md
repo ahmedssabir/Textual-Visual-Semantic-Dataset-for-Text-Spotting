@@ -33,7 +33,7 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
 [2]:https://www.dropbox.com/s/icuyb4qwbzctu1u/imagenet-resnet-152-dag.mat?dl=0
  
  
- ## Visual contexts (object, places*)  
+ ## Visual contexts 1 (object, places*)  
  - Image_id, spotted word(gt), objects, places
  -  Example: `COCO_train2014_000000000081.jpg,airfracne, airliner, airfield`
  
@@ -47,6 +47,14 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
 
 - Image_id, spotted word(gt), objects1,object2,places
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
+
+
+ ## Visual contexts 2 (image description, object, place)
+ - Image_id, spotted word(baseline genertor), caption
+ - Example: `COCO_train2014_000000000081.jpg,airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)
+ 
+ 
+ %# For testing  (image description)
 
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
