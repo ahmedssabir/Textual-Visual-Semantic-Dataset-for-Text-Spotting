@@ -1,9 +1,11 @@
 # Textual Visual Semantic Dataset for Text Spotting 
-%## Visual Re-ranking with Natural Language Understanding for Text Spotting
+<!---Visual Re-ranking with Natural Language Understanding for Text Spotting -->
 
 This dataset has been used in this paper:
 
 Visual Re-ranking with Natural Language Understanding for Text Spotting https://arxiv.org/pdf/1810.12738.pdf
+
+Semantic Relatedness Based Re-ranker for Text Spotting https://arxiv.org/pdf/1909.07950.pdf 
 
 This dataset is based on [COCO-text], Please visit https://github.com/andreasveit/coco-text. COCO-text is based on Microsoft COCO Please visit http://mscoco.org/ for more information on COCO-dataset, including the image data, object annotatins and caption annotations.
 
@@ -50,7 +52,7 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
 
- ## Visual contexts 2 (image description, object, place) (comming soon)
+ ## Visual contexts 2 (image description, object, place) (coming soon)
  - Image_id, spotted word(baseline genertor), caption
  - Example: `COCO_train2014_000000000081.jpg, airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
  
