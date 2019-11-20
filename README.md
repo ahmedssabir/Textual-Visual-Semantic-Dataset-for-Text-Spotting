@@ -57,7 +57,7 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
  - Example: `COCO_train2014_000000000081.jpg, airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
  
  
- %# For testing  (image description)
+<!--- For testing  (image description) -->
 
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
