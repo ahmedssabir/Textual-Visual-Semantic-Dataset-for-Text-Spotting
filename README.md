@@ -51,8 +51,8 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
 - Image_id, spotted word(baseline), objects1,object2,places
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
-
- ## Visual contexts 2 (image description, object, place) (coming soon)
+# (coming soon)
+ ## Visual contexts 2 (image description, object, place) 
  - Image_id, spotted word(gt/baseline), caption
  - Example: `COCO_train2014_000000000081.jpg, airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
  
@@ -60,6 +60,9 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
  ## For testing  (image description) 
  This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 - Image_id, spotted word(baseline), caption
+
+ ## Object and text co-occurrence database
+spotted word(gt), places/object- co-occurrence information between text and objects
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
 [6]:http://rrc.cvc.uab.es/?ch=5&com=tasks
