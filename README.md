@@ -51,7 +51,7 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
 
  ## Visual contexts 2 (image description, object, place)
  - Image_id, spotted word(baseline genertor), caption
- - Example: `COCO_train2014_000000000081.jpg,airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)
+ - Example: `COCO_train2014_000000000081.jpg,airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
  
  
  %# For testing  (image description)
