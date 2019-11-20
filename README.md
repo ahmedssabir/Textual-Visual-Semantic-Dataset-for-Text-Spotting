@@ -58,6 +58,7 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
  
  
  ## For testing  (image description) 
+ This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 - Image_id, spotted word(baseline), caption
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
