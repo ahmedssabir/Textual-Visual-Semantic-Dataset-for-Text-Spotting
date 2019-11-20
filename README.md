@@ -18,7 +18,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 ## 2) Extracting  the Bounding box and top-k objects (from object classifer) 
 - [Matlab 2018][3] - ` Free 30 days trial ` you only need to run it once 
-- [MatConvNet][1] open source deep learning freamework 
+- [MatConvNet][1] open source deep learning freamework (out-of-the-box recent SOTA object classifer) http://www.vlfeat.org/matconvnet/pretrained/  
 - Run `Extract_BBox.m` file 1 bounding box file 2 full image 
 
 
