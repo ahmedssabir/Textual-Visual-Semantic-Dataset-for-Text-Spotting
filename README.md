@@ -1,9 +1,9 @@
-# Textual Visual Semantic Dataset for Text Spotting  `Updates Coming Soon`
+# Textual Visual Semantic Dataset for Text Spotting  
 <!---Visual Re-ranking with Natural Language Understanding for Text Spotting -->
 
 This dataset has been used in this paper:
 
-Visual Re-ranking with Natural Language Understanding for Text Spotting https://arxiv.org/pdf/1810.12738.pdf
+Visual Re-ranking with Natural Language Understanding for Text Spotting https://arxiv.org/pdf/1810.12738.pdf `Updates Coming Soon`
 
 Semantic Relatedness Based Re-ranker for Text Spotting https://arxiv.org/pdf/1909.07950.pdf  `coming soon`
 
