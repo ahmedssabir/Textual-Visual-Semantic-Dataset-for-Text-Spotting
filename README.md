@@ -32,10 +32,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [1]:http://www.vlfeat.org/matconvnet/install/
 
 
-After installing MatConvNet you need to install pre-trained weight [Resent152][2]
 
-[2]:https://www.dropbox.com/s/icuyb4qwbzctu1u/imagenet-resnet-152-dag.mat?dl=0
- 
  
  ## Visual contexts 1 (object, places*)  
  - Image_id, spotted word(gt), objects, places
