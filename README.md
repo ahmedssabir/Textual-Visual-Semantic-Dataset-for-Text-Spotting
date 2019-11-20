@@ -52,7 +52,8 @@ After installing MatConvNet you need to install pre-trained weight [Resent152][2
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
 
- ## Visual contexts 2 (image description, object, place)  ```diff + this will be highlighted in green```
+ ## Visual contexts 2 (image description, object, place)  
+ ```diff + this will be highlighted in green```
  - Image_id, spotted word(gt/baseline), caption
  - Example: `COCO_train2014_000000000081.jpg, airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
  
