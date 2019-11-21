@@ -67,7 +67,7 @@ spotted word(gt), places/object- co-occurrence information between text and obje
 [6]:http://rrc.cvc.uab.es/?ch=5&com=tasks
 
 
-## Dictionary (Unigram Language Model)
+## Dictionary 300K
 - Matlab 2018 
 - Load the [Pre-trained Dictionary] (T3w.m, T3N.m)  [opensubtitle](https://www.duo.uio.no/bitstream/handle/10852/50459/947_Paper.pdf?sequence=4) (3510867) unique token
 - runMap = containers.Map(T3w, T3N); 
