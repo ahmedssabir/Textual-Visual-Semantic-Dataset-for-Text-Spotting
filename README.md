@@ -65,3 +65,10 @@ spotted word(gt), places/object- co-occurrence information between text and obje
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
 [6]:http://rrc.cvc.uab.es/?ch=5&com=tasks
 
+
+## Dictionary (unigram LM)
+- [Matlab 2018][3] - ` Free 30 days trial ` you only need to run it once 
+- Dowload model (file1.m, file2.m)
+- runMap = containers.Map(T3w, T3N); 
+- runMap('barcelona') 
+
