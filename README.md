@@ -71,4 +71,4 @@ spotted word(gt), places/object- co-occurrence information between text and obje
 - Load the ![Pre-trained](https://www.dropbox.com/sh/1af43nvlmac54ib/AADyRtK4ztyTS65hull1gyxMa?dl=0) Dictionary (T3w.m, T3N.m) ([opensubtitle][7] 3510867 uniqe token 
 - runMap = containers.Map(T3w, T3N); 
 - word = runMap('barcelona')  
-[7]:Opensubtitles2016: Extracting large parallel corpora from movie and tv subtitles
+[7]: Opensubtitles2016: Extracting large parallel corpora from movie and tv subtitles
