@@ -80,7 +80,7 @@ label,word,caption
 0,is,a woman is holding a laptop in front of a window 
 0,awn,a toilet with a toilet seat in a bathroom 
 1,angeles,a bus that is parked on a street corner 
-1,design,"a bathroom with a sink , toilet and a window "
+1,design,a bathroom with a sink , toilet and a window 
 0,nong,a dog laying on a couch next to a cat 
 0,ring,a bicycle parked next to a building with a bicycle 
 0,aux,a bunch of bananas are sitting in a store 
@@ -131,7 +131,7 @@ label,word,caption
 0,hd,a man is holding a pizza in a box 
 0,isis,a man wearing a hat and a tie 
 0,chivy,a man is holding a cake with a knife 
-0,xxx,"a living room with a television , a television and a television "
+0,xxx,a living room with a television , a television and a television 
 0,decipher,a man and woman sitting at a table eating pizza 
 1,9,a clock is displayed on a wall with a clock on it 
 1,leisure,a red and white bus parked on a street 
@@ -435,14 +435,14 @@ label,word,caption
 0,e,a bunch of people on a beach with a kite 
 0,439,a large airplane sitting on top of a runway 
 0,1,a man is surfing in the ocean with a surfboard 
-0,hoax,"a bathroom with a sink , a sink and a window "
+0,hoax,a bathroom with a sink , a sink and a window 
 0,sq,a group of people standing next to a bunch of bananas 
 1,hp,a motorcycle parked on a sidewalk next to a building 
 1,beppo,a man is walking down a street with a cell phone 
 0,usn,a man is holding a laptop in front of a store 
 0,teat,a small dog is sitting on a table with a cat 
 0,sys,a man is holding a tennis racket in his hand 
-0,ia,a sign that reads `` <unk> '' on a pole 
+0,ia,a sign that reads  on a pole 
 0,rb,a baseball player swinging a bat at a ball 
 0,z,a boat is docked in the water near a lake 
 0,h,a plate of food with a sandwich and a drink 
@@ -526,7 +526,7 @@ label,word,caption
 1,stop,a stop sign with a stop sign on it 
 1,photography,a woman sitting on a bench with a cat on her lap 
 0,if,a cat laying on a bed next to a cat 
-0,unbid,"a kitchen with a stove , stove and a stove "
+0,unbid,a kitchen with a stove , stove and a stove 
 0,quiz,a man is holding a large teddy bear in a cage 
 0,ruhr,a person is holding a cell phone in front of a television 
 0,how,a man and a woman are sitting in front of a cake 
@@ -700,7 +700,7 @@ label,word,caption
 0,janie,a train is going down the tracks in a rural area 
 0,sufi,a piece of cake on a plate next to a cup of coffee 
 0,bm,a black and white photo of a train on a track 
-0,t,"a living room with a couch , a television , and a television "
+0,t,a living room with a couch , a television , and a television 
 0,9,a red fire hydrant sitting on the side of a street 
 0,na,a group of people playing a game of tennis 
 0,leavings,a person is holding a small child in a kitchen 
@@ -721,7 +721,7 @@ label,word,caption
 0,uk,a group of young men playing a game of frisbee 
 0,rwy,a pizza with a slice missing on it 
 0,micro,a wooden bench sitting next to a building 
-0,ila,"a room with a bed , a table , and a table "
+0,ila,a room with a bed , a table , and a table 
 0,6,a man and woman sitting at a table with a laptop 
 0,stol,a man holding a cell phone in his hand 
 0,hell,a truck with a red truck parked on the street 
@@ -807,7 +807,7 @@ label,word,caption
 0,removes,a television is sitting on a wooden table 
 0,maudlin,a street sign with a red fire hydrant on it 
 0,3,a bunch of bananas sitting on a table 
-0,extradite,"a kitchen with a sink , sink and a sink "
+0,extradite,a kitchen with a sink , sink and a sink 
 1,mildred,a woman is preparing food in a kitchen 
 0,a,a bunch of bananas are sitting on a table 
 0,6,a man riding a motorcycle on a city street 
@@ -835,7 +835,7 @@ label,word,caption
 0,nave,a dog laying on a bed with a cat on it 
 0,905,a bus is driving down a street next to a building 
 0,quota,a truck parked in front of a truck 
-0,w,"a living room with a couch , a television , and a television "
+0,w,a living room with a couch , a television , and a television 
 1,kennedy,a baseball player swinging a bat at a ball 
 0,dunkirk,a large building with a clock on the side of it 
 1,obama,a street sign with a sign on the side of it 
@@ -873,7 +873,7 @@ label,word,caption
 0,cussing,a boat is parked in a small boat 
 0,dengue,a man is doing a trick on a skateboard 
 0,bowlegged,a man sitting on a motorcycle in a parking lot 
-1,bistro,"a kitchen with a stove , oven , and a stove "
+1,bistro,a kitchen with a stove , oven , and a stove 
 0,6,a man wearing a red shirt and a tie 
 0,pentathlon,a person flying a kite in the sky 
 0,vg,a man is playing frisbee in a field 
@@ -915,7 +915,7 @@ label,word,caption
 0,7,a bunch of motorcycles parked in a parking lot 
 0,ah,a man is playing a video game on a television 
 0,scans,a man holding a plate of food on a table 
-0,phis,"a living room with a couch , a television , and a television "
+0,phis,a living room with a couch , a television , and a television 
 0,a,a baseball player swinging a bat at a ball 
 0,2008,a dog is sitting on a couch with a cat on the back 
 0,ls,a street sign with a sign on the side of it 
@@ -1058,7 +1058,7 @@ label,word,caption
 0,mooed,a large clock tower with a clock on it 
 0,lb,a large airplane is parked on the runway 
 0,ken,a man is holding a cell phone in front of a television 
-1,see,"a living room with a couch , a table and a table "
+1,see,a living room with a couch , a table and a table 
 1,rock,a group of people riding motorcycles on a street 
 0,vii,a close up of a street sign with a clock on it 
 0,bsa,a person holding a cell phone in a room 
@@ -1134,7 +1134,7 @@ label,word,caption
 0,jesse,a red and white photo of a street sign 
 1,expect,a street sign with a sign on top of it 
 1,j,a large room with a bunch of luggage on it 
-0,moet,"a kitchen with a stove , stove , and a counter top "
+0,moet,a kitchen with a stove , stove , and a counter top 
 1,folsom,a street scene with a street sign and a street sign 
 0,lcsw,a man is cooking in a kitchen with a bowl of food 
 0,color,a cat is sitting on a desk next to a computer monitor 
@@ -1454,7 +1454,7 @@ label,word,caption
 0,mod,a parking meter with a parking meter on it 
 0,31,a red and yellow bus driving down a street 
 0,mop,a man and woman sitting on a bench with a dog 
-0,be,"a living room with a couch , a couch , and a television "
+0,be,a living room with a couch , a couch , and a television 
 0,ss,a train is traveling down a track next to a train station 
 1,airways,a large jetliner sitting on top of a runway 
 0,q,a small kitchen with a blender and a cup of coffee 
@@ -1486,7 +1486,7 @@ label,word,caption
 0,commuter,a man is riding a bike on a city street 
 1,pool,a bus that is driving down a street 
 1,air,a large jetliner sitting on top of a runway 
-0,camry,"a living room with a couch , a television , and a television "
+0,camry,a living room with a couch , a television , and a television 
 0,courtyard,a man is eating a donut in a box 
 0,boers,a large airplane is flying in the sky 
 0,sacs,a stop sign with a stop sign on it 
@@ -1626,7 +1626,7 @@ label,word,caption
 0,ai,a plate of food with a hot dog and a drink 
 0,forgo,a parking meter with a parking meter on it 
 0,joss,a person holding a pair of scissors in his hand 
-1,barber,a sign that reads `` <unk> '' on a pole 
+1,barber,a sign that reads  on a pole 
 0,ceo,a bus is parked on the side of a street 
 0,gel,a woman is sitting at a table with a plate of food 
 0,overfilling,a man riding a motorcycle on a dirt road 
@@ -1645,7 +1645,7 @@ label,word,caption
 0,3,a man is cooking in a kitchen with a large amount of food 
 0,e,a bus is parked on the side of a road 
 0,dipso,a man and woman are standing in front of a group of people 
-1,t,"a bedroom with a bed , a bed , and a window "
+1,t,a bedroom with a bed , a bed , and a window 
 0,1715,a man is standing in front of a red truck 
 1,fines,a traffic light on a pole on a street corner 
 0,burr,a blender with a glass of wine on top of it 
@@ -1768,7 +1768,7 @@ label,word,caption
 0,op,a train is traveling down a track next to a building 
 0,oxonian,a bicycle parked next to a bike parked on a sidewalk 
 0,ww,a bunch of different types of luggage on a table 
-0,ayers,"a kitchen with a sink , sink and a refrigerator "
+0,ayers,a kitchen with a sink , sink and a refrigerator 
 0,3,a couple of elephants standing next to each other 
 0,e,a man holding a tennis racket on a tennis court 
 1,matt,a bathroom with a toilet and a sink 
@@ -1998,7 +1998,7 @@ label,word,caption
 0,x,a small child wearing a red bow tie 
 1,express,a large jetliner flying through the sky with a sky background 
 0,wilford,a desk with a laptop and a laptop on it 
-1,mike,"a living room with a television , television , and a television "
+1,mike,a living room with a television , television , and a television 
 0,he,a bunch of oranges sitting on a table 
 0,is,a man is surfing on a wave in the ocean 
 0,101,a red and white bus driving down a street 
@@ -2509,7 +2509,7 @@ label,word,caption
 0,droopy,a pair of scissors and a skateboard on a sidewalk 
 0,3,a bunch of bananas are sitting on a table 
 1,hooch,a man is playing a game of soccer on a field 
-1,s,"a living room with a couch , a television , and a television "
+1,s,a living room with a couch , a television , and a television 
 1,sh,a street sign with a sign on the side of it 
 0,ia,a plate of food with a fork and a fork 
 0,ransom,a stop sign with a stop sign on it 
@@ -2542,7 +2542,7 @@ label,word,caption
 0,4x4,a red and yellow truck parked on a street 
 0,n,a man is walking down a street with a cell phone 
 0,sweaty,a cat is sitting on a desk next to a computer 
-0,tape,"a living room with a couch , a television , and a television "
+0,tape,a living room with a couch , a television , and a television 
 0,dun,a group of young men playing a game of baseball 
 1,hate,a stop sign with a stop sign on it 
 0,forgo,a red and white photo of a city street 
@@ -2632,7 +2632,7 @@ label,word,caption
 0,22nd,a street scene with a clock on the side of it 
 0,ezra,a dog is sitting on a couch with a remote 
 0,qua,a plate of food with a sandwich and a drink 
-1,park,"a room with a couch , a television , and a television "
+1,park,a room with a couch , a television , and a television 
 0,1600,a large airplane is parked on the runway 
 0,ntc,a group of people standing in front of a red and white umbrella 
 1,emirates,a man is playing tennis on a tennis court 
@@ -2988,12 +2988,12 @@ label,word,caption
 0,keen,a person is holding a cell phone in front of a television 
 0,bligh,a baseball player swinging a bat at a ball 
 0,lab,a woman is eating a piece of pizza on a table 
-1,party,"a living room with a couch , chair and a television "
+1,party,a living room with a couch , chair and a television 
 1,our,a group of people standing around a ski lift 
 1,rear,a clock on a wall with a clock on it 
 0,fax,a baby is sitting in a chair with a cat 
 0,ck,a plate of food with a fork and a fork 
-0,eeg,"a living room with a couch , a television , and a television "
+0,eeg,a living room with a couch , a television , and a television 
 0,angelico,a large airplane sitting on top of a runway 
 0,ss,a man on a motorcycle is going down a track 
 0,woolliness,a laptop computer sitting on top of a desk 
@@ -3027,7 +3027,7 @@ label,word,caption
 0,tintinnabulation,a large jetliner flying through the sky with a sky background 
 0,ter,a group of people walking down a street with a large umbrella 
 1,kt,a man is playing tennis on a tennis court 
-0,assisi,"a living room with a couch , a television , and a television "
+0,assisi,a living room with a couch , a television , and a television 
 0,ae,a baseball player swinging a bat at a ball 
 0,six,a stop sign with a stop sign on it 
 1,lufthansa,a large jetliner flying through a blue sky 
@@ -3199,7 +3199,7 @@ label,word,caption
 0,vs,a woman is holding a laptop in front of a window 
 0,alma,a toilet with a toilet seat in a bathroom 
 0,angles,a bus that is parked on a street corner 
-0,beseem,"a bathroom with a sink , toilet and a window "
+0,beseem,a bathroom with a sink , toilet and a window 
 0,agni,a dog laying on a couch next to a cat 
 0,wing,a bicycle parked next to a building with a bicycle 
 0,wk,a bunch of bananas are sitting in a store 
@@ -3250,7 +3250,7 @@ label,word,caption
 0,ad,a man is holding a pizza in a box 
 0,isle,a man wearing a hat and a tie 
 0,canny,a man is holding a cake with a knife 
-0,aqua,"a living room with a television , a television and a television "
+0,aqua,a living room with a television , a television and a television 
 0,acceptance,a man and woman sitting at a table eating pizza 
 0,19,a clock is displayed on a wall with a clock on it 
 0,fissure,a red and white bus parked on a street 
@@ -3554,14 +3554,14 @@ label,word,caption
 1,5,a bunch of people on a beach with a kite 
 0,hissed,a large airplane sitting on top of a runway 
 0,j,a man is surfing in the ocean with a surfboard 
-0,iraq,"a bathroom with a sink , a sink and a window "
+0,iraq,a bathroom with a sink , a sink and a window 
 0,jv,a group of people standing next to a bunch of bananas 
 0,hr,a motorcycle parked on a sidewalk next to a building 
 0,beeped,a man is walking down a street with a cell phone 
 0,lash,a man is holding a laptop in front of a store 
 0,heat,a small dog is sitting on a table with a cat 
 0,aye,a man is holding a tennis racket in his hand 
-0,ln,a sign that reads `` <unk> '' on a pole 
+0,ln,a sign that reads  on a pole 
 0,28,a baseball player swinging a bat at a ball 
 0,22,a boat is docked in the water near a lake 
 0,iq,a plate of food with a sandwich and a drink 
@@ -3645,7 +3645,7 @@ label,word,caption
 0,store,a stop sign with a stop sign on it 
 0,typography,a woman sitting on a bench with a cat on her lap 
 0,af,a cat laying on a bed next to a cat 
-0,gonzalo,"a kitchen with a stove , stove and a stove "
+0,gonzalo,a kitchen with a stove , stove and a stove 
 0,avis,a man is holding a large teddy bear in a cage 
 0,uk,a person is holding a cell phone in front of a television 
 0,nous,a man and a woman are sitting in front of a cake 
@@ -3819,7 +3819,7 @@ label,word,caption
 0,dale,a train is going down the tracks in a rural area 
 0,sulky,a piece of cake on a plate next to a cup of coffee 
 0,ani,a black and white photo of a train on a track 
-0,x,"a living room with a couch , a television , and a television "
+0,x,a living room with a couch , a television , and a television 
 0,sp,a red fire hydrant sitting on the side of a street 
 0,its,a group of people playing a game of tennis 
 0,regrinds,a person is holding a small child in a kitchen 
@@ -3840,7 +3840,7 @@ label,word,caption
 0,il,a group of young men playing a game of frisbee 
 0,fwy,a pizza with a slice missing on it 
 0,misdo,a wooden bench sitting next to a building 
-0,aa,"a room with a bed , a table , and a table "
+0,aa,a room with a bed , a table , and a table 
 0,g,a man and woman sitting at a table with a laptop 
 0,grok,a man holding a cell phone in his hand 
 0,natl,a truck with a red truck parked on the street 
@@ -3926,7 +3926,7 @@ label,word,caption
 0,fondues,a television is sitting on a wooden table 
 0,noun,a street sign with a red fire hydrant on it 
 0,4,a bunch of bananas sitting on a table 
-0,chapatti,"a kitchen with a sink , sink and a sink "
+0,chapatti,a kitchen with a sink , sink and a sink 
 0,minored,a woman is preparing food in a kitchen 
 0,d,a bunch of bananas are sitting on a table 
 0,g,a man riding a motorcycle on a city street 
@@ -3954,7 +3954,7 @@ label,word,caption
 0,adze,a dog laying on a bed with a cat on it 
 0,cos,a bus is driving down a street next to a building 
 0,ovoid,a truck parked in front of a truck 
-0,plant,"a living room with a couch , a television , and a television "
+0,plant,a living room with a couch , a television , and a television 
 0,kennan,a baseball player swinging a bat at a ball 
 0,quadratic,a large building with a clock on the side of it 
 0,deanna,a street sign with a sign on the side of it 
@@ -3992,7 +3992,7 @@ label,word,caption
 0,custard,a boat is parked in a small boat 
 0,lilongwe,a man is doing a trick on a skateboard 
 0,bulges,a man sitting on a motorcycle in a parking lot 
-0,castro,"a kitchen with a stove , oven , and a stove "
+0,castro,a kitchen with a stove , oven , and a stove 
 1,5,a man wearing a red shirt and a tie 
 0,revitalization,a person flying a kite in the sky 
 0,tues,a man is playing frisbee in a field 
@@ -4034,7 +4034,7 @@ label,word,caption
 0,1,a bunch of motorcycles parked in a parking lot 
 0,fake,a man is playing a video game on a television 
 0,sam,a man holding a plate of food on a table 
-0,phila,"a living room with a couch , a television , and a television "
+0,phila,a living room with a couch , a television , and a television 
 0,rsv,a baseball player swinging a bat at a ball 
 0,zoos,a dog is sitting on a couch with a cat on the back 
 0,is,a street sign with a sign on the side of it 
@@ -4177,7 +4177,7 @@ label,word,caption
 0,imhotep,a large clock tower with a clock on it 
 0,ales,a large airplane is parked on the runway 
 1,key,a man is holding a cell phone in front of a television 
-0,sec,"a living room with a couch , a table and a table "
+0,sec,a living room with a couch , a table and a table 
 0,rook,a group of people riding motorcycles on a street 
 0,nba,a close up of a street sign with a clock on it 
 0,iga,a person holding a cell phone in a room 
@@ -4253,7 +4253,7 @@ label,word,caption
 0,ieyasu,a red and white photo of a street sign 
 0,effect,a street sign with a sign on top of it 
 0,y,a large room with a bunch of luggage on it 
-0,no25,"a kitchen with a stove , stove , and a counter top "
+0,no25,a kitchen with a stove , stove , and a counter top 
 0,colson,a street scene with a street sign and a street sign 
 0,xciv,a man is cooking in a kitchen with a bowl of food 
 0,cages,a cat is sitting on a desk next to a computer monitor 
@@ -4573,7 +4573,7 @@ label,word,caption
 0,moil,a parking meter with a parking meter on it 
 0,61,a red and yellow bus driving down a street 
 0,mp,a man and woman sitting on a bench with a dog 
-0,le,"a living room with a couch , a couch , and a television "
+0,le,a living room with a couch , a couch , and a television 
 1,55,a train is traveling down a track next to a train station 
 0,fairways,a large jetliner sitting on top of a runway 
 0,o,a small kitchen with a blender and a cup of coffee 
@@ -4605,7 +4605,7 @@ label,word,caption
 0,canute,a man is riding a bike on a city street 
 0,pooh,a bus that is driving down a street 
 0,pin,a large jetliner sitting on top of a runway 
-0,counci,"a living room with a couch , a television , and a television "
+0,counci,a living room with a couch , a television , and a television 
 0,neutrino,a man is eating a donut in a box 
 0,lycra,a large airplane is flying in the sky 
 0,36,a stop sign with a stop sign on it 
@@ -4745,7 +4745,7 @@ label,word,caption
 0,an,a plate of food with a hot dog and a drink 
 0,no,a parking meter with a parking meter on it 
 0,sosa,a person holding a pair of scissors in his hand 
-0,barker,a sign that reads `` <unk> '' on a pole 
+0,barker,a sign that reads  on a pole 
 0,cfc,a bus is parked on the side of a street 
 1,sell,a woman is sitting at a table with a plate of food 
 0,grovelling,a man riding a motorcycle on a dirt road 
@@ -4764,7 +4764,7 @@ label,word,caption
 0,5,a man is cooking in a kitchen with a large amount of food 
 0,r,a bus is parked on the side of a road 
 0,video,a man and woman are standing in front of a group of people 
-0,l,"a bedroom with a bed , a bed , and a window "
+0,l,a bedroom with a bed , a bed , and a window 
 0,tills,a man is standing in front of a red truck 
 0,flings,a traffic light on a pole on a street corner 
 0,snuffs,a blender with a glass of wine on top of it 
@@ -4887,7 +4887,7 @@ label,word,caption
 0,qr,a train is traveling down a track next to a building 
 0,mondo,a bicycle parked next to a bike parked on a sidewalk 
 0,fatwa,a bunch of different types of luggage on a table 
-0,ryan,"a kitchen with a sink , sink and a refrigerator "
+0,ryan,a kitchen with a sink , sink and a refrigerator 
 0,8,a couple of elephants standing next to each other 
 0,f,a man holding a tennis racket on a tennis court 
 0,malt,a bathroom with a toilet and a sink 
@@ -5117,7 +5117,7 @@ label,word,caption
 0,k,a small child wearing a red bow tie 
 0,empress,a large jetliner flying through the sky with a sky background 
 0,wilfred,a desk with a laptop and a laptop on it 
-0,make,"a living room with a television , television , and a television "
+0,make,a living room with a television , television , and a television 
 0,lie,a bunch of oranges sitting on a table 
 0,3,a man is surfing on a wave in the ocean 
 0,o,a red and white bus driving down a street 
@@ -5628,7 +5628,7 @@ label,word,caption
 0,unspoken,a pair of scissors and a skateboard on a sidewalk 
 0,is,a bunch of bananas are sitting on a table 
 0,brooch,a man is playing a game of soccer on a field 
-0,3,"a living room with a couch , a television , and a television "
+0,3,a living room with a couch , a television , and a television 
 0,5th,a street sign with a sign on the side of it 
 0,io,a plate of food with a fork and a fork 
 0,yangon,a stop sign with a stop sign on it 
@@ -5661,7 +5661,7 @@ label,word,caption
 0,31st,a red and yellow truck parked on a street 
 0,fy,a man is walking down a street with a cell phone 
 0,sylvester,a cat is sitting on a desk next to a computer 
-0,caper,"a living room with a couch , a television , and a television "
+0,caper,a living room with a couch , a television , and a television 
 0,dui,a group of young men playing a game of baseball 
 0,hair,a stop sign with a stop sign on it 
 0,0,a red and white photo of a city street 
@@ -5751,7 +5751,7 @@ label,word,caption
 0,and,a street scene with a clock on the side of it 
 0,berra,a dog is sitting on a couch with a remote 
 0,que,a plate of food with a sandwich and a drink 
-0,pack,"a room with a couch , a television , and a television "
+0,pack,a room with a couch , a television , and a television 
 0,2000,a large airplane is parked on the runway 
 0,mtge,a group of people standing in front of a red and white umbrella 
 0,entries,a man is playing tennis on a tennis court 
@@ -6107,12 +6107,12 @@ label,word,caption
 0,keg,a person is holding a cell phone in front of a television 
 0,bijou,a baseball player swinging a bat at a ball 
 0,1946,a woman is eating a piece of pizza on a table 
-0,purity,"a living room with a couch , chair and a television "
+0,purity,a living room with a couch , chair and a television 
 0,ow,a group of people standing around a ski lift 
 0,rene,a clock on a wall with a clock on it 
 0,fr,a baby is sitting in a chair with a cat 
 0,ch,a plate of food with a fork and a fork 
-0,bbq,"a living room with a couch , a television , and a television "
+0,bbq,a living room with a couch , a television , and a television 
 0,ahchoo,a large airplane sitting on top of a runway 
 0,sa,a man on a motorcycle is going down a track 
 0,ventures,a laptop computer sitting on top of a desk 
@@ -6146,7 +6146,7 @@ label,word,caption
 0,antihistamine,a large jetliner flying through the sky with a sky background 
 0,yer,a group of people walking down a street with a large umbrella 
 0,k,a man is playing tennis on a tennis court 
-0,pastel,"a living room with a couch , a television , and a television "
+0,pastel,a living room with a couch , a television , and a television 
 0,ab,a baseball player swinging a bat at a ball 
 0,sun,a stop sign with a stop sign on it 
 0,euthanasia,a large jetliner flying through a blue sky 
@@ -6318,7 +6318,7 @@ label,word,caption
 0,15,a woman is holding a laptop in front of a window 
 0,aim,a toilet with a toilet seat in a bathroom 
 0,angelica,a bus that is parked on a street corner 
-0,bessel,"a bathroom with a sink , toilet and a window "
+0,bessel,a bathroom with a sink , toilet and a window 
 0,nona,a dog laying on a couch next to a cat 
 0,king,a bicycle parked next to a building with a bicycle 
 0,air,a bunch of bananas are sitting in a store 
@@ -6369,7 +6369,7 @@ label,word,caption
 0,jd,a man is holding a pizza in a box 
 0,tsin,a man wearing a hat and a tie 
 0,carny,a man is holding a cake with a knife 
-0,xix,"a living room with a television , a television and a television "
+0,xix,a living room with a television , a television and a television 
 0,esophagi,a man and woman sitting at a table eating pizza 
 0,sq,a clock is displayed on a wall with a clock on it 
 0,legislature,a red and white bus parked on a street 
@@ -6673,14 +6673,14 @@ label,word,caption
 0,lp,a bunch of people on a beach with a kite 
 0,19,a large airplane sitting on top of a runway 
 0,n,a man is surfing in the ocean with a surfboard 
-0,iran,"a bathroom with a sink , a sink and a window "
+0,iran,a bathroom with a sink , a sink and a window 
 0,1957,a group of people standing next to a bunch of bananas 
 0,this,a motorcycle parked on a sidewalk next to a building 
 0,beeps,a man is walking down a street with a cell phone 
 0,ash,a man is holding a laptop in front of a store 
 0,tat,a small dog is sitting on a table with a cat 
 0,y,a man is holding a tennis racket in his hand 
-0,r,a sign that reads `` <unk> '' on a pole 
+0,r,a sign that reads  on a pole 
 0,106,a baseball player swinging a bat at a ball 
 0,2,a boat is docked in the water near a lake 
 0,19,a plate of food with a sandwich and a drink 
@@ -6764,7 +6764,7 @@ label,word,caption
 0,stoic,a stop sign with a stop sign on it 
 0,choreography,a woman sitting on a bench with a cat on her lap 
 0,4,a cat laying on a bed next to a cat 
-0,outbid,"a kitchen with a stove , stove and a stove "
+0,outbid,a kitchen with a stove , stove and a stove 
 0,axis,a man is holding a large teddy bear in a cage 
 0,wit,a person is holding a cell phone in front of a television 
 0,hour,a man and a woman are sitting in front of a cake 
@@ -6938,7 +6938,7 @@ label,word,caption
 0,janis,a train is going down the tracks in a rural area 
 0,gungy,a piece of cake on a plate next to a cup of coffee 
 0,um,a black and white photo of a train on a track 
-0,k,"a living room with a couch , a television , and a television "
+0,k,a living room with a couch , a television , and a television 
 0,si,a red fire hydrant sitting on the side of a street 
 0,ts,a group of people playing a game of tennis 
 0,convince,a person is holding a small child in a kitchen 
@@ -6959,7 +6959,7 @@ label,word,caption
 0,l,a group of young men playing a game of frisbee 
 0,bury,a pizza with a slice missing on it 
 0,mego,a wooden bench sitting next to a building 
-0,il,"a room with a bed , a table , and a table "
+0,il,a room with a bed , a table , and a table 
 0,lg,a man and woman sitting at a table with a laptop 
 0,stop,a man holding a cell phone in his hand 
 0,melt,a truck with a red truck parked on the street 
@@ -7045,7 +7045,7 @@ label,word,caption
 0,temps,a television is sitting on a wooden table 
 0,mcgillin,a street sign with a red fire hydrant on it 
 0,j,a bunch of bananas sitting on a table 
-1,cherokee,"a kitchen with a sink , sink and a sink "
+1,cherokee,a kitchen with a sink , sink and a sink 
 0,mildewed,a woman is preparing food in a kitchen 
 0,0,a bunch of bananas are sitting on a table 
 0,0,a man riding a motorcycle on a city street 
@@ -7073,7 +7073,7 @@ label,word,caption
 0,mix,a dog laying on a bed with a cat on it 
 0,sos,a bus is driving down a street next to a building 
 0,dicta,a truck parked in front of a truck 
-0,lal,"a living room with a couch , a television , and a television "
+0,lal,a living room with a couch , a television , and a television 
 0,tehran,a baseball player swinging a bat at a ball 
 0,downdrafts,a large building with a clock on the side of it 
 0,dianna,a street sign with a sign on the side of it 
@@ -7111,7 +7111,7 @@ label,word,caption
 0,gussied,a boat is parked in a small boat 
 0,hangup,a man is doing a trick on a skateboard 
 0,coalesces,a man sitting on a motorcycle in a parking lot 
-0,basho,"a kitchen with a stove , oven , and a stove "
+0,basho,a kitchen with a stove , oven , and a stove 
 0,8,a man wearing a red shirt and a tie 
 0,pentathlons,a person flying a kite in the sky 
 0,iva,a man is playing frisbee in a field 
@@ -7153,7 +7153,7 @@ label,word,caption
 0,j,a bunch of motorcycles parked in a parking lot 
 0,ail,a man is playing a video game on a television 
 0,saw,a man holding a plate of food on a table 
-0,pixie,"a living room with a couch , a television , and a television "
+0,pixie,a living room with a couch , a television , and a television 
 0,psi,a baseball player swinging a bat at a ball 
 0,boost,a dog is sitting on a couch with a cat on the back 
 0,15,a street sign with a sign on the side of it 
@@ -7296,7 +7296,7 @@ label,word,caption
 0,knocked,a large clock tower with a clock on it 
 0,des,a large airplane is parked on the runway 
 0,keen,a man is holding a cell phone in front of a television 
-0,set,"a living room with a couch , a table and a table "
+0,set,a living room with a couch , a table and a table 
 0,rick,a group of people riding motorcycles on a street 
 0,van,a close up of a street sign with a clock on it 
 0,sea,a person holding a cell phone in a room 
@@ -7372,7 +7372,7 @@ label,word,caption
 0,zest,a red and white photo of a street sign 
 0,ergot,a street sign with a sign on top of it 
 0,7,a large room with a bunch of luggage on it 
-0,noel,"a kitchen with a stove , stove , and a counter top "
+0,noel,a kitchen with a stove , stove , and a counter top 
 0,jolson,a street scene with a street sign and a street sign 
 0,yew,a man is cooking in a kitchen with a bowl of food 
 0,cripes,a cat is sitting on a desk next to a computer monitor 
@@ -7692,7 +7692,7 @@ label,word,caption
 0,moi,a parking meter with a parking meter on it 
 0,52,a red and yellow bus driving down a street 
 0,penelope,a man and woman sitting on a bench with a dog 
-0,fe,"a living room with a couch , a couch , and a television "
+0,fe,a living room with a couch , a couch , and a television 
 0,53,a train is traveling down a track next to a train station 
 0,anyways,a large jetliner sitting on top of a runway 
 0,cob,a small kitchen with a blender and a cup of coffee 
@@ -7724,7 +7724,7 @@ label,word,caption
 0,conduits,a man is riding a bike on a city street 
 0,poi,a bus that is driving down a street 
 0,ala,a large jetliner sitting on top of a runway 
-0,conjured,"a living room with a couch , a television , and a television "
+0,conjured,a living room with a couch , a television , and a television 
 0,downwind,a man is eating a donut in a box 
 0,byers,a large airplane is flying in the sky 
 0,secs,a stop sign with a stop sign on it 
@@ -7864,7 +7864,7 @@ label,word,caption
 0,al,a plate of food with a hot dog and a drink 
 0,rotor,a parking meter with a parking meter on it 
 0,loss,a person holding a pair of scissors in his hand 
-0,berber,a sign that reads `` <unk> '' on a pole 
+0,berber,a sign that reads  on a pole 
 0,eec,a bus is parked on the side of a street 
 0,eel,a woman is sitting at a table with a plate of food 
 0,mottling,a man riding a motorcycle on a dirt road 
@@ -7883,7 +7883,7 @@ label,word,caption
 0,s,a man is cooking in a kitchen with a large amount of food 
 0,p,a bus is parked on the side of a road 
 0,duded,a man and woman are standing in front of a group of people 
-0,i,"a bedroom with a bed , a bed , and a window "
+0,i,a bedroom with a bed , a bed , and a window 
 0,kills,a man is standing in front of a red truck 
 0,fires,a traffic light on a pole on a street corner 
 0,nr,a blender with a glass of wine on top of it 
@@ -8006,7 +8006,7 @@ label,word,caption
 0,vi,a train is traveling down a track next to a building 
 0,honor,a bicycle parked next to a bike parked on a sidewalk 
 0,thrum,a bunch of different types of luggage on a table 
-0,aspens,"a kitchen with a sink , sink and a refrigerator "
+0,aspens,a kitchen with a sink , sink and a refrigerator 
 0,5,a couple of elephants standing next to each other 
 0,g,a man holding a tennis racket on a tennis court 
 0,mart,a bathroom with a toilet and a sink 
@@ -8236,7 +8236,7 @@ label,word,caption
 0,r,a small child wearing a red bow tie 
 0,cypress,a large jetliner flying through the sky with a sky background 
 0,whelped,a desk with a laptop and a laptop on it 
-0,snake,"a living room with a television , television , and a television "
+0,snake,a living room with a television , television , and a television 
 0,4,a bunch of oranges sitting on a table 
 0,k,a man is surfing on a wave in the ocean 
 0,0,a red and white bus driving down a street 
@@ -8747,7 +8747,7 @@ label,word,caption
 0,bop,a pair of scissors and a skateboard on a sidewalk 
 0,13,a bunch of bananas are sitting on a table 
 0,mooch,a man is playing a game of soccer on a field 
-0,5,"a living room with a couch , a television , and a television "
+0,5,a living room with a couch , a television , and a television 
 0,sill,a street sign with a sign on the side of it 
 0,la,a plate of food with a fork and a fork 
 0,yearbooks,a stop sign with a stop sign on it 
@@ -8780,7 +8780,7 @@ label,word,caption
 0,xxi,a red and yellow truck parked on a street 
 0,iv,a man is walking down a street with a cell phone 
 0,sparsity,a cat is sitting on a desk next to a computer 
-0,taper,"a living room with a couch , a television , and a television "
+0,taper,a living room with a couch , a television , and a television 
 0,our,a group of young men playing a game of baseball 
 0,hale,a stop sign with a stop sign on it 
 0,coco,a red and white photo of a city street 
@@ -8870,7 +8870,7 @@ label,word,caption
 0,32nd,a street scene with a clock on the side of it 
 0,ebro,a dog is sitting on a couch with a remote 
 0,suva,a plate of food with a sandwich and a drink 
-0,pak,"a room with a couch , a television , and a television "
+0,pak,a room with a couch , a television , and a television 
 0,loop,a large airplane is parked on the runway 
 0,nita,a group of people standing in front of a red and white umbrella 
 0,laminates,a man is playing tennis on a tennis court 
@@ -9226,12 +9226,12 @@ label,word,caption
 1,keep,a person is holding a cell phone in front of a television 
 0,biol,a baseball player swinging a bat at a ball 
 0,var,a woman is eating a piece of pizza on a table 
-0,forty,"a living room with a couch , chair and a television "
+0,forty,a living room with a couch , chair and a television 
 0,dui,a group of people standing around a ski lift 
 0,reit,a clock on a wall with a clock on it 
 0,fa,a baby is sitting in a chair with a cat 
 0,chi,a plate of food with a fork and a fork 
-0,fess,"a living room with a couch , a television , and a television "
+0,fess,a living room with a couch , a television , and a television 
 0,arched,a large airplane sitting on top of a runway 
 0,53,a man on a motorcycle is going down a track 
 0,homburgs,a laptop computer sitting on top of a desk 
@@ -9265,7 +9265,7 @@ label,word,caption
 0,unimaginably,a large jetliner flying through the sky with a sky background 
 0,ger,a group of people walking down a street with a large umbrella 
 0,xi,a man is playing tennis on a tennis court 
-0,mossiest,"a living room with a couch , a television , and a television "
+0,mossiest,a living room with a couch , a television , and a television 
 0,he,a baseball player swinging a bat at a ball 
 0,soy,a stop sign with a stop sign on it 
 0,unrehearsed,a large jetliner flying through a blue sky 
@@ -9437,7 +9437,7 @@ label,word,caption
 0,xs,a woman is holding a laptop in front of a window 
 0,minn,a toilet with a toilet seat in a bathroom 
 0,angels,a bus that is parked on a street corner 
-0,despoil,"a bathroom with a sink , toilet and a window "
+0,despoil,a bathroom with a sink , toilet and a window 
 0,now,a dog laying on a couch next to a cat 
 0,icing,a bicycle parked next to a building with a bicycle 
 0,unix,a bunch of bananas are sitting in a store 
@@ -9488,7 +9488,7 @@ label,word,caption
 0,12,a man is holding a pizza in a box 
 0,5b,a man wearing a hat and a tie 
 0,carry,a man is holding a cake with a knife 
-0,xiv,"a living room with a television , a television and a television "
+0,xiv,a living room with a television , a television and a television 
 0,bopping,a man and woman sitting at a table eating pizza 
 0,360,a clock is displayed on a wall with a clock on it 
 0,legislate,a red and white bus parked on a street 
@@ -9792,14 +9792,14 @@ label,word,caption
 0,b,a bunch of people on a beach with a kite 
 0,180,a large airplane sitting on top of a runway 
 0,7,a man is surfing in the ocean with a surfboard 
-0,rag,"a bathroom with a sink , a sink and a window "
+0,rag,a bathroom with a sink , a sink and a window 
 0,espy,a group of people standing next to a bunch of bananas 
 0,the,a motorcycle parked on a sidewalk next to a building 
 0,hepp,a man is walking down a street with a cell phone 
 0,ugh,a man is holding a laptop in front of a store 
 0,seat,a small dog is sitting on a table with a cat 
 0,qc,a man is holding a tennis racket in his hand 
-0,h,a sign that reads `` <unk> '' on a pole 
+0,h,a sign that reads  on a pole 
 0,tb,a baseball player swinging a bat at a ball 
 0,26,a boat is docked in the water near a lake 
 0,jd,a plate of food with a sandwich and a drink 
@@ -9883,7 +9883,7 @@ label,word,caption
 0,stoop,a stop sign with a stop sign on it 
 0,hydrotherapy,a woman sitting on a bench with a cat on her lap 
 0,r,a cat laying on a bed next to a cat 
-0,cubic,"a kitchen with a stove , stove and a stove "
+0,cubic,a kitchen with a stove , stove and a stove 
 0,rule,a man is holding a large teddy bear in a cage 
 0,mr,a person is holding a cell phone in front of a television 
 0,iou,a man and a woman are sitting in front of a cake 
@@ -10057,7 +10057,7 @@ label,word,caption
 0,jails,a train is going down the tracks in a rural area 
 0,runniest,a piece of cake on a plate next to a cup of coffee 
 0,ami,a black and white photo of a train on a track 
-0,r,"a living room with a couch , a television , and a television "
+0,r,a living room with a couch , a television , and a television 
 0,q,a red fire hydrant sitting on the side of a street 
 0,nsi,a group of people playing a game of tennis 
 0,yearnings,a person is holding a small child in a kitchen 
@@ -10078,7 +10078,7 @@ label,word,caption
 0,ilk,a group of young men playing a game of frisbee 
 0,envy,a pizza with a slice missing on it 
 0,map,a wooden bench sitting next to a building 
-0,na,"a room with a bed , a table , and a table "
+0,na,a room with a bed , a table , and a table 
 0,e,a man and woman sitting at a table with a laptop 
 0,spa,a man holding a cell phone in his hand 
 0,neil,a truck with a red truck parked on the street 
@@ -10164,7 +10164,7 @@ label,word,caption
 0,compos,a television is sitting on a wooden table 
 0,mouth,a street sign with a red fire hydrant on it 
 0,i,a bunch of bananas sitting on a table 
-0,clubfooted,"a kitchen with a sink , sink and a sink "
+0,clubfooted,a kitchen with a sink , sink and a sink 
 0,wilfred,a woman is preparing food in a kitchen 
 0,p,a bunch of bananas are sitting on a table 
 0,o,a man riding a motorcycle on a city street 
@@ -10192,7 +10192,7 @@ label,word,caption
 0,laue,a dog laying on a bed with a cat on it 
 0,los,a bus is driving down a street next to a building 
 0,avesta,a truck parked in front of a truck 
-0,blast,"a living room with a couch , a television , and a television "
+0,blast,a living room with a couch , a television , and a television 
 0,rehear,a baseball player swinging a bat at a ball 
 0,dunghill,a large building with a clock on the side of it 
 0,deana,a street sign with a sign on the side of it 
@@ -10230,7 +10230,7 @@ label,word,caption
 0,asap,a boat is parked in a small boat 
 0,tongue,a man is doing a trick on a skateboard 
 0,advisors,a man sitting on a motorcycle in a parking lot 
-0,pietro,"a kitchen with a stove , oven , and a stove "
+0,pietro,a kitchen with a stove , oven , and a stove 
 0,s,a man wearing a red shirt and a tie 
 0,revelations,a person flying a kite in the sky 
 0,we,a man is playing frisbee in a field 
@@ -10272,7 +10272,7 @@ label,word,caption
 0,122,a bunch of motorcycles parked in a parking lot 
 0,ak,a man is playing a video game on a television 
 0,scams,a man holding a plate of food on a table 
-0,phil,"a living room with a couch , a television , and a television "
+0,phil,a living room with a couch , a television , and a television 
 0,psst,a baseball player swinging a bat at a ball 
 0,705,a dog is sitting on a couch with a cat on the back 
 0,lg,a street sign with a sign on the side of it 
@@ -10415,7 +10415,7 @@ label,word,caption
 0,mocks,a large clock tower with a clock on it 
 0,a133,a large airplane is parked on the runway 
 0,kiev,a man is holding a cell phone in front of a television 
-0,gee,"a living room with a couch , a table and a table "
+0,gee,a living room with a couch , a table and a table 
 0,koch,a group of people riding motorcycles on a street 
 0,voa,a close up of a street sign with a clock on it 
 0,ya,a person holding a cell phone in a room 
@@ -10491,7 +10491,7 @@ label,word,caption
 0,1957,a red and white photo of a street sign 
 0,expert,a street sign with a sign on top of it 
 0,52,a large room with a bunch of luggage on it 
-0,mock,"a kitchen with a stove , stove , and a counter top "
+0,mock,a kitchen with a stove , stove , and a counter top 
 0,edison,a street scene with a street sign and a street sign 
 0,ion,a man is cooking in a kitchen with a bowl of food 
 0,crux,a cat is sitting on a desk next to a computer monitor 
@@ -10811,7 +10811,7 @@ label,word,caption
 0,mood,a parking meter with a parking meter on it 
 0,bl,a red and yellow bus driving down a street 
 0,pulps,a man and woman sitting on a bench with a dog 
-0,ff,"a living room with a couch , a couch , and a television "
+0,ff,a living room with a couch , a couch , and a television 
 0,36,a train is traveling down a track next to a train station 
 0,cutaways,a large jetliner sitting on top of a runway 
 0,9,a small kitchen with a blender and a cup of coffee 
@@ -10843,7 +10843,7 @@ label,word,caption
 0,conduit,a man is riding a bike on a city street 
 0,poof,a bus that is driving down a street 
 0,min,a large jetliner sitting on top of a runway 
-0,lauri,"a living room with a couch , a television , and a television "
+0,lauri,a living room with a couch , a television , and a television 
 0,junkyard,a man is eating a donut in a box 
 0,beeps,a large airplane is flying in the sky 
 0,26,a stop sign with a stop sign on it 
@@ -10983,7 +10983,7 @@ label,word,caption
 1,a,a plate of food with a hot dog and a drink 
 0,0,a parking meter with a parking meter on it 
 0,hoss,a person holding a pair of scissors in his hand 
-0,barkeep,a sign that reads `` <unk> '' on a pole 
+0,barkeep,a sign that reads  on a pole 
 0,cfo,a bus is parked on the side of a street 
 0,sch,a woman is sitting at a table with a plate of food 
 0,confining,a man riding a motorcycle on a dirt road 
@@ -11002,7 +11002,7 @@ label,word,caption
 0,f,a man is cooking in a kitchen with a large amount of food 
 0,f,a bus is parked on the side of a road 
 0,hided,a man and woman are standing in front of a group of people 
-0,il,"a bedroom with a bed , a bed , and a window "
+0,il,a bedroom with a bed , a bed , and a window 
 0,ills,a man is standing in front of a red truck 
 0,fives,a traffic light on a pole on a street corner 
 0,smurfs,a blender with a glass of wine on top of it 
@@ -11125,7 +11125,7 @@ label,word,caption
 0,vp,a train is traveling down a track next to a building 
 0,nona,a bicycle parked next to a bike parked on a sidewalk 
 0,fixture,a bunch of different types of luggage on a table 
-0,apex,"a kitchen with a sink , sink and a refrigerator "
+0,apex,a kitchen with a sink , sink and a refrigerator 
 0,7,a couple of elephants standing next to each other 
 0,4,a man holding a tennis racket on a tennis court 
 0,nat,a bathroom with a toilet and a sink 
@@ -11355,7 +11355,7 @@ label,word,caption
 0,ix,a small child wearing a red bow tie 
 0,everest,a large jetliner flying through the sky with a sky background 
 0,wool,a desk with a laptop and a laptop on it 
-0,unlike,"a living room with a television , television , and a television "
+0,unlike,a living room with a television , television , and a television 
 0,liz,a bunch of oranges sitting on a table 
 0,13,a man is surfing on a wave in the ocean 
 0,los,a red and white bus driving down a street 
@@ -11866,7 +11866,7 @@ label,word,caption
 0,ivory,a pair of scissors and a skateboard on a sidewalk 
 0,l,a bunch of bananas are sitting on a table 
 0,pooch,a man is playing a game of soccer on a field 
-0,8,"a living room with a couch , a television , and a television "
+0,8,a living room with a couch , a television , and a television 
 0,eh,a street sign with a sign on the side of it 
 0,b,a plate of food with a fork and a fork 
 0,pangaea,a stop sign with a stop sign on it 
@@ -11899,7 +11899,7 @@ label,word,caption
 0,ski,a red and yellow truck parked on a street 
 0,r,a man is walking down a street with a cell phone 
 0,speedily,a cat is sitting on a desk next to a computer 
-0,fayer,"a living room with a couch , a television , and a television "
+0,fayer,a living room with a couch , a television , and a television 
 0,pun,a group of young men playing a game of baseball 
 0,half,a stop sign with a stop sign on it 
 0,coca,a red and white photo of a city street 
@@ -11989,7 +11989,7 @@ label,word,caption
 0,am,a street scene with a clock on the side of it 
 0,bio,a dog is sitting on a couch with a remote 
 0,yup,a plate of food with a sandwich and a drink 
-0,paris,"a room with a couch , a television , and a television "
+0,paris,a room with a couch , a television , and a television 
 0,1996,a large airplane is parked on the runway 
 0,niff,a group of people standing in front of a red and white umbrella 
 0,emirate,a man is playing tennis on a tennis court 
@@ -12345,12 +12345,12 @@ label,word,caption
 0,heed,a person is holding a cell phone in front of a television 
 0,bilious,a baseball player swinging a bat at a ball 
 0,vats,a woman is eating a piece of pizza on a table 
-0,parity,"a living room with a couch , chair and a television "
+0,parity,a living room with a couch , chair and a television 
 0,out,a group of people standing around a ski lift 
 0,rex,a clock on a wall with a clock on it 
 0,fay,a baby is sitting in a chair with a cat 
 0,cr,a plate of food with a fork and a fork 
-0,epa,"a living room with a couch , a television , and a television "
+0,epa,a living room with a couch , a television , and a television 
 0,birched,a large airplane sitting on top of a runway 
 0,8,a man on a motorcycle is going down a track 
 0,towlines,a laptop computer sitting on top of a desk 
@@ -12384,7 +12384,7 @@ label,word,caption
 0,antimicrobial,a large jetliner flying through the sky with a sky background 
 0,fer,a group of people walking down a street with a large umbrella 
 0,skit,a man is playing tennis on a tennis court 
-0,rofl,"a living room with a couch , a television , and a television "
+0,rofl,a living room with a couch , a television , and a television 
 0,36,a baseball player swinging a bat at a ball 
 0,sloe,a stop sign with a stop sign on it 
 0,hymeneal,a large jetliner flying through a blue sky 
@@ -12556,7 +12556,7 @@ label,word,caption
 0,ls,a woman is holding a laptop in front of a window 
 0,aux,a toilet with a toilet seat in a bathroom 
 0,niggles,a bus that is parked on a street corner 
-0,desired,"a bathroom with a sink , toilet and a window "
+0,desired,a bathroom with a sink , toilet and a window 
 0,ion,a dog laying on a couch next to a cat 
 0,axing,a bicycle parked next to a building with a bicycle 
 0,mr,a bunch of bananas are sitting in a store 
@@ -12607,7 +12607,7 @@ label,word,caption
 0,yd,a man is holding a pizza in a box 
 0,25th,a man wearing a hat and a tie 
 0,curve,a man is holding a cake with a knife 
-0,xvi,"a living room with a television , a television and a television "
+0,xvi,a living room with a television , a television and a television 
 0,deceptively,a man and woman sitting at a table eating pizza 
 0,69,a clock is displayed on a wall with a clock on it 
 0,issue,a red and white bus parked on a street 
@@ -12911,14 +12911,14 @@ label,word,caption
 0,lb,a bunch of people on a beach with a kite 
 0,rinsed,a large airplane sitting on top of a runway 
 0,i,a man is surfing in the ocean with a surfboard 
-0,ran,"a bathroom with a sink , a sink and a window "
+0,ran,a bathroom with a sink , a sink and a window 
 0,pay,a group of people standing next to a bunch of bananas 
 0,thc,a motorcycle parked on a sidewalk next to a building 
 0,expo,a man is walking down a street with a cell phone 
 0,ssh,a man is holding a laptop in front of a store 
 1,feat,a small dog is sitting on a table with a cat 
 0,99,a man is holding a tennis racket in his hand 
-0,in,a sign that reads `` <unk> '' on a pole 
+0,in,a sign that reads  on a pole 
 0,26,a baseball player swinging a bat at a ball 
 0,122,a boat is docked in the water near a lake 
 0,14,a plate of food with a sandwich and a drink 
@@ -13002,7 +13002,7 @@ label,word,caption
 0,star,a stop sign with a stop sign on it 
 0,thoroughly,a woman sitting on a bench with a cat on her lap 
 0,vf,a cat laying on a bed next to a cat 
-0,pablo,"a kitchen with a stove , stove and a stove "
+0,pablo,a kitchen with a stove , stove and a stove 
 0,nil,a man is holding a large teddy bear in a cage 
 0,wk,a person is holding a cell phone in front of a television 
 0,holy,a man and a woman are sitting in front of a cake 
@@ -13176,7 +13176,7 @@ label,word,caption
 0,axle,a train is going down the tracks in a rural area 
 0,quinsy,a piece of cake on a plate next to a cup of coffee 
 0,pm,a black and white photo of a train on a track 
-0,tc,"a living room with a couch , a television , and a television "
+0,tc,a living room with a couch , a television , and a television 
 0,sj,a red fire hydrant sitting on the side of a street 
 0,ta,a group of people playing a game of tennis 
 0,upswings,a person is holding a small child in a kitchen 
@@ -13197,7 +13197,7 @@ label,word,caption
 0,t,a group of young men playing a game of frisbee 
 0,fury,a pizza with a slice missing on it 
 0,mao,a wooden bench sitting next to a building 
-0,11,"a room with a bed , a table , and a table "
+0,11,a room with a bed , a table , and a table 
 0,b,a man and woman sitting at a table with a laptop 
 0,star,a man holding a cell phone in his hand 
 0,wait,a truck with a red truck parked on the street 
@@ -13283,7 +13283,7 @@ label,word,caption
 0,tenures,a television is sitting on a wooden table 
 0,menuhin,a street sign with a red fire hydrant on it 
 0,l,a bunch of bananas sitting on a table 
-0,threadier,"a kitchen with a sink , sink and a sink "
+0,threadier,a kitchen with a sink , sink and a sink 
 0,majored,a woman is preparing food in a kitchen 
 0,o,a bunch of bananas are sitting on a table 
 0,8,a man riding a motorcycle on a city street 
@@ -13311,7 +13311,7 @@ label,word,caption
 0,mus,a dog laying on a bed with a cat on it 
 0,705,a bus is driving down a street next to a building 
 0,profs,a truck parked in front of a truck 
-0,bat,"a living room with a couch , a television , and a television "
+0,bat,a living room with a couch , a television , and a television 
 0,redhead,a baseball player swinging a bat at a ball 
 0,dumbbell,a large building with a clock on the side of it 
 0,dana,a street sign with a sign on the side of it 
@@ -13349,7 +13349,7 @@ label,word,caption
 0,gushed,a boat is parked in a small boat 
 1,remove,a man is doing a trick on a skateboard 
 0,buzzers,a man sitting on a motorcycle in a parking lot 
-0,aggro,"a kitchen with a stove , oven , and a stove "
+0,aggro,a kitchen with a stove , oven , and a stove 
 0,3,a man wearing a red shirt and a tie 
 0,tenterhook,a person flying a kite in the sky 
 0,juice,a man is playing frisbee in a field 
@@ -13391,7 +13391,7 @@ label,word,caption
 0,vi,a bunch of motorcycles parked in a parking lot 
 0,a12,a man is playing a video game on a television 
 0,seating,a man holding a plate of food on a table 
-0,pints,"a living room with a couch , a television , and a television "
+0,pints,a living room with a couch , a television , and a television 
 0,usb,a baseball player swinging a bat at a ball 
 0,loos,a dog is sitting on a couch with a cat on the back 
 0,ilks,a street sign with a sign on the side of it 
@@ -13534,7 +13534,7 @@ label,word,caption
 0,moses,a large clock tower with a clock on it 
 0,afa,a large airplane is parked on the runway 
 0,keri,a man is holding a cell phone in front of a television 
-0,sea,"a living room with a couch , a table and a table "
+0,sea,a living room with a couch , a table and a table 
 0,pock,a group of people riding motorcycles on a street 
 0,via,a close up of a street sign with a clock on it 
 0,rssa,a person holding a cell phone in a room 
@@ -13610,7 +13610,7 @@ label,word,caption
 0,ussr,a red and white photo of a street sign 
 0,epcot,a street sign with a sign on top of it 
 0,1,a large room with a bunch of luggage on it 
-0,moist,"a kitchen with a stove , stove , and a counter top "
+0,moist,a kitchen with a stove , stove , and a counter top 
 0,poison,a street scene with a street sign and a street sign 
 0,few,a man is cooking in a kitchen with a bowl of food 
 0,cozier,a cat is sitting on a desk next to a computer monitor 
@@ -13930,7 +13930,7 @@ label,word,caption
 0,moe,a parking meter with a parking meter on it 
 0,az,a red and yellow bus driving down a street 
 0,mr,a man and woman sitting on a bench with a dog 
-0,ice,"a living room with a couch , a couch , and a television "
+0,ice,a living room with a couch , a couch , and a television 
 0,59,a train is traveling down a track next to a train station 
 0,caraways,a large jetliner sitting on top of a runway 
 0,kgb,a small kitchen with a blender and a cup of coffee 
@@ -13962,7 +13962,7 @@ label,word,caption
 1,computer,a man is riding a bike on a city street 
 0,poon,a bus that is driving down a street 
 0,ar,a large jetliner sitting on top of a runway 
-0,conned,"a living room with a couch , a television , and a television "
+0,conned,a living room with a couch , a television , and a television 
 0,honeyman,a man is eating a donut in a box 
 0,bob,a large airplane is flying in the sky 
 0,snog,a stop sign with a stop sign on it 
@@ -14102,7 +14102,7 @@ label,word,caption
 0,ar,a plate of food with a hot dog and a drink 
 0,rondo,a parking meter with a parking meter on it 
 0,doss,a person holding a pair of scissors in his hand 
-0,larder,a sign that reads `` <unk> '' on a pole 
+0,larder,a sign that reads  on a pole 
 0,eeg,a bus is parked on the side of a street 
 0,ged,a woman is sitting at a table with a plate of food 
 0,sparkling,a man riding a motorcycle on a dirt road 
@@ -14121,7 +14121,7 @@ label,word,caption
 0,j,a man is cooking in a kitchen with a large amount of food 
 0,iq,a bus is parked on the side of a road 
 0,hobo,a man and woman are standing in front of a group of people 
-0,it,"a bedroom with a bed , a bed , and a window "
+0,it,a bedroom with a bed , a bed , and a window 
 0,lib,a man is standing in front of a red truck 
 0,finer,a traffic light on a pole on a street corner 
 0,mr,a blender with a glass of wine on top of it 
@@ -14244,7 +14244,7 @@ label,word,caption
 0,cr,a train is traveling down a track next to a building 
 1,honda,a bicycle parked next to a bike parked on a sidewalk 
 0,runyon,a bunch of different types of luggage on a table 
-0,nylon,"a kitchen with a sink , sink and a refrigerator "
+0,nylon,a kitchen with a sink , sink and a refrigerator 
 0,1,a couple of elephants standing next to each other 
 0,r,a man holding a tennis racket on a tennis court 
 0,wait,a bathroom with a toilet and a sink 
@@ -14474,7 +14474,7 @@ label,word,caption
 0,jg,a small child wearing a red bow tie 
 0,expired,a large jetliner flying through the sky with a sky background 
 0,milepost,a desk with a laptop and a laptop on it 
-0,mic,"a living room with a television , television , and a television "
+0,mic,a living room with a television , television , and a television 
 0,3,a bunch of oranges sitting on a table 
 0,jg,a man is surfing on a wave in the ocean 
 0,c,a red and white bus driving down a street 
@@ -14985,7 +14985,7 @@ label,word,caption
 0,modern,a pair of scissors and a skateboard on a sidewalk 
 0,1,a bunch of bananas are sitting on a table 
 0,epoch,a man is playing a game of soccer on a field 
-0,9,"a living room with a couch , a television , and a television "
+0,9,a living room with a couch , a television , and a television 
 0,911,a street sign with a sign on the side of it 
 0,14,a plate of food with a fork and a fork 
 0,vinson,a stop sign with a stop sign on it 
@@ -15018,7 +15018,7 @@ label,word,caption
 0,gigi,a red and yellow truck parked on a street 
 0,ry,a man is walking down a street with a cell phone 
 0,swath,a cat is sitting on a desk next to a computer 
-0,tnpk,"a living room with a couch , a television , and a television "
+0,tnpk,a living room with a couch , a television , and a television 
 0,dix,a group of young men playing a game of baseball 
 0,hake,a stop sign with a stop sign on it 
 0,pto,a red and white photo of a city street 
@@ -15108,7 +15108,7 @@ label,word,caption
 0,dana,a street scene with a clock on the side of it 
 0,euro,a dog is sitting on a couch with a remote 
 0,jug,a plate of food with a sandwich and a drink 
-0,parks,"a room with a couch , a television , and a television "
+0,parks,a room with a couch , a television , and a television 
 0,logo,a large airplane is parked on the runway 
 0,rtd,a group of people standing in front of a red and white umbrella 
 0,emigrates,a man is playing tennis on a tennis court 
@@ -15464,12 +15464,12 @@ label,word,caption
 0,ko,a person is holding a cell phone in front of a television 
 0,bleu,a baseball player swinging a bat at a ball 
 0,4,a woman is eating a piece of pizza on a table 
-0,parry,"a living room with a couch , chair and a television "
+0,parry,a living room with a couch , chair and a television 
 0,own,a group of people standing around a ski lift 
 0,risk,a clock on a wall with a clock on it 
 0,fiji,a baby is sitting in a chair with a cat 
 0,clii,a plate of food with a fork and a fork 
-0,fees,"a living room with a couch , a television , and a television "
+0,fees,a living room with a couch , a television , and a television 
 0,archer,a large airplane sitting on top of a runway 
 0,si,a man on a motorcycle is going down a track 
 0,volutes,a laptop computer sitting on top of a desk 
@@ -15503,7 +15503,7 @@ label,word,caption
 0,intrinsically,a large jetliner flying through the sky with a sky background 
 0,ref,a group of people walking down a street with a large umbrella 
 0,h,a man is playing tennis on a tennis court 
-0,frosted,"a living room with a couch , a television , and a television "
+0,frosted,a living room with a couch , a television , and a television 
 0,ac,a baseball player swinging a bat at a ball 
 0,spf,a stop sign with a stop sign on it 
 0,buttressed,a large jetliner flying through a blue sky 
@@ -15675,7 +15675,7 @@ label,word,caption
 0,ts,a woman is holding a laptop in front of a window 
 0,nm,a toilet with a toilet seat in a bathroom 
 0,gaggles,a bus that is parked on a street corner 
-0,bestow,"a bathroom with a sink , toilet and a window "
+0,bestow,a bathroom with a sink , toilet and a window 
 0,hens,a dog laying on a couch next to a cat 
 0,lying,a bicycle parked next to a building with a bicycle 
 0,ajax,a bunch of bananas are sitting in a store 
@@ -15726,7 +15726,7 @@ label,word,caption
 0,nd,a man is holding a pizza in a box 
 0,sh,a man wearing a hat and a tie 
 0,cary,a man is holding a cake with a knife 
-0,rv,"a living room with a television , a television and a television "
+0,rv,a living room with a television , a television and a television 
 0,bogeymen,a man and woman sitting at a table eating pizza 
 0,89,a clock is displayed on a wall with a clock on it 
 0,reissuing,a red and white bus parked on a street 
@@ -16030,14 +16030,14 @@ label,word,caption
 0,6,a bunch of people on a beach with a kite 
 0,used,a large airplane sitting on top of a runway 
 0,it,a man is surfing in the ocean with a surfboard 
-0,rpm,"a bathroom with a sink , a sink and a window "
+0,rpm,a bathroom with a sink , a sink and a window 
 0,poi,a group of people standing next to a bunch of bananas 
 0,tap,a motorcycle parked on a sidewalk next to a building 
 0,depo,a man is walking down a street with a cell phone 
 0,ssa,a man is holding a laptop in front of a store 
 0,lsat,a small dog is sitting on a table with a cat 
 0,x,a man is holding a tennis racket in his hand 
-1,a,a sign that reads `` <unk> '' on a pole 
+1,a,a sign that reads  on a pole 
 0,236,a baseball player swinging a bat at a ball 
 0,25,a boat is docked in the water near a lake 
 0,sa,a plate of food with a sandwich and a drink 
@@ -16121,7 +16121,7 @@ label,word,caption
 0,strop,a stop sign with a stop sign on it 
 0,teaspoonful,a woman sitting on a bench with a cat on her lap 
 0,rf,a cat laying on a bed next to a cat 
-0,aurelio,"a kitchen with a stove , stove and a stove "
+0,aurelio,a kitchen with a stove , stove and a stove 
 0,ni,a man is holding a large teddy bear in a cage 
 0,tulip,a person is holding a cell phone in front of a television 
 0,howl,a man and a woman are sitting in front of a cake 
@@ -16295,7 +16295,7 @@ label,word,caption
 0,jade,a train is going down the tracks in a rural area 
 0,smiley,a piece of cake on a plate next to a cup of coffee 
 0,dmz,a black and white photo of a train on a track 
-0,ix,"a living room with a couch , a television , and a television "
+0,ix,a living room with a couch , a television , and a television 
 0,asp,a red fire hydrant sitting on the side of a street 
 0,m,a group of people playing a game of tennis 
 0,flavorings,a person is holding a small child in a kitchen 
@@ -16316,7 +16316,7 @@ label,word,caption
 0,ii,a group of young men playing a game of frisbee 
 0,jewry,a pizza with a slice missing on it 
 0,argo,a wooden bench sitting next to a building 
-0,jd,"a room with a bed , a table , and a table "
+0,jd,a room with a bed , a table , and a table 
 0,8,a man and woman sitting at a table with a laptop 
 0,sids,a man holding a cell phone in his hand 
 0,hail,a truck with a red truck parked on the street 
@@ -16402,7 +16402,7 @@ label,word,caption
 0,frumps,a television is sitting on a wooden table 
 0,youth,a street sign with a red fire hydrant on it 
 0,1,a bunch of bananas sitting on a table 
-0,credit,"a kitchen with a sink , sink and a sink "
+0,credit,a kitchen with a sink , sink and a sink 
 0,injured,a woman is preparing food in a kitchen 
 0,q,a bunch of bananas are sitting on a table 
 0,b,a man riding a motorcycle on a city street 
@@ -16430,7 +16430,7 @@ label,word,caption
 0,mug,a dog laying on a bed with a cat on it 
 0,boss,a bus is driving down a street next to a building 
 0,greta,a truck parked in front of a truck 
-0,slant,"a living room with a couch , a television , and a television "
+0,slant,a living room with a couch , a television , and a television 
 0,schnook,a baseball player swinging a bat at a ball 
 0,downfall,a large building with a clock on the side of it 
 0,ocarina,a street sign with a sign on the side of it 
@@ -16468,7 +16468,7 @@ label,word,caption
 0,gland,a boat is parked in a small boat 
 0,annoys,a man is doing a trick on a skateboard 
 0,bootlegged,a man sitting on a motorcycle in a parking lot 
-0,biro,"a kitchen with a stove , oven , and a stove "
+0,biro,a kitchen with a stove , oven , and a stove 
 0,o,a man wearing a red shirt and a tie 
 0,totalities,a person flying a kite in the sky 
 0,us,a man is playing frisbee in a field 
@@ -16510,7 +16510,7 @@ label,word,caption
 0,z,a bunch of motorcycles parked in a parking lot 
 0,razz,a man is playing a video game on a television 
 0,scaring,a man holding a plate of food on a table 
-0,phys,"a living room with a couch , a television , and a television "
+0,phys,a living room with a couch , a television , and a television 
 0,cst,a baseball player swinging a bat at a ball 
 0,2009,a dog is sitting on a couch with a cat on the back 
 0,19,a street sign with a sign on the side of it 
@@ -16653,7 +16653,7 @@ label,word,caption
 0,knocks,a large clock tower with a clock on it 
 0,dies,a large airplane is parked on the runway 
 0,iced,a man is holding a cell phone in front of a television 
-0,seq,"a living room with a couch , a table and a table "
+0,seq,a living room with a couch , a table and a table 
 0,cock,a group of people riding motorcycles on a street 
 0,vga,a close up of a street sign with a clock on it 
 0,ipa,a person holding a cell phone in a room 
@@ -16729,7 +16729,7 @@ label,word,caption
 0,geyser,a red and white photo of a street sign 
 0,except,a street sign with a sign on top of it 
 0,si,a large room with a bunch of luggage on it 
-0,nazi,"a kitchen with a stove , stove , and a counter top "
+0,nazi,a kitchen with a stove , stove , and a counter top 
 0,follow,a street scene with a street sign and a street sign 
 0,xxiv,a man is cooking in a kitchen with a bowl of food 
 0,crier,a cat is sitting on a desk next to a computer monitor 
@@ -17049,7 +17049,7 @@ label,word,caption
 0,moog,a parking meter with a parking meter on it 
 0,al,a red and yellow bus driving down a street 
 0,emirs,a man and woman sitting on a bench with a dog 
-0,88,"a living room with a couch , a couch , and a television "
+0,88,a living room with a couch , a couch , and a television 
 0,sis,a train is traveling down a track next to a train station 
 0,taxiways,a large jetliner sitting on top of a runway 
 0,col,a small kitchen with a blender and a cup of coffee 
@@ -17081,7 +17081,7 @@ label,word,caption
 0,cenobite,a man is riding a bike on a city street 
 0,poor,a bus that is driving down a street 
 0,an,a large jetliner sitting on top of a runway 
-0,pommel,"a living room with a couch , a television , and a television "
+0,pommel,a living room with a couch , a television , and a television 
 0,homewood,a man is eating a donut in a box 
 0,boga,a large airplane is flying in the sky 
 0,106,a stop sign with a stop sign on it 
@@ -17221,7 +17221,7 @@ label,word,caption
 0,zn,a plate of food with a hot dog and a drink 
 0,p6100,a parking meter with a parking meter on it 
 0,boss,a person holding a pair of scissors in his hand 
-0,bather,a sign that reads `` <unk> '' on a pole 
+0,bather,a sign that reads  on a pole 
 0,rec,a bus is parked on the side of a street 
 0,sci,a woman is sitting at a table with a plate of food 
 0,morphine,a man riding a motorcycle on a dirt road 
@@ -17240,7 +17240,7 @@ label,word,caption
 0,1,a man is cooking in a kitchen with a large amount of food 
 0,c,a bus is parked on the side of a road 
 0,xhosa,a man and woman are standing in front of a group of people 
-0,lt,"a bedroom with a bed , a bed , and a window "
+0,lt,a bedroom with a bed , a bed , and a window 
 0,xis,a man is standing in front of a red truck 
 0,finks,a traffic light on a pole on a street corner 
 0,smirk,a blender with a glass of wine on top of it 
@@ -17363,7 +17363,7 @@ label,word,caption
 0,un,a train is traveling down a track next to a building 
 0,monica,a bicycle parked next to a bike parked on a sidewalk 
 0,flown,a bunch of different types of luggage on a table 
-0,apron,"a kitchen with a sink , sink and a refrigerator "
+0,apron,a kitchen with a sink , sink and a refrigerator 
 0,s,a couple of elephants standing next to each other 
 0,3,a man holding a tennis racket on a tennis court 
 0,mari,a bathroom with a toilet and a sink 
@@ -17593,7 +17593,7 @@ label,word,caption
 0,2c,a small child wearing a red bow tie 
 0,entrees,a large jetliner flying through the sky with a sky background 
 0,unhistorical,a desk with a laptop and a laptop on it 
-0,nuke,"a living room with a television , television , and a television "
+0,nuke,a living room with a television , television , and a television 
 0,lib,a bunch of oranges sitting on a table 
 0,xs,a man is surfing on a wave in the ocean 
 0,lot,a red and white bus driving down a street 
@@ -18104,7 +18104,7 @@ label,word,caption
 0,snooty,a pair of scissors and a skateboard on a sidewalk 
 0,j,a bunch of bananas are sitting on a table 
 0,smooch,a man is playing a game of soccer on a field 
-0,g,"a living room with a couch , a television , and a television "
+0,g,a living room with a couch , a television , and a television 
 0,sk,a street sign with a sign on the side of it 
 0,iq,a plate of food with a fork and a fork 
 0,jayson,a stop sign with a stop sign on it 
@@ -18137,7 +18137,7 @@ label,word,caption
 0,gust,a red and yellow truck parked on a street 
 0,iq,a man is walking down a street with a cell phone 
 0,strati,a cat is sitting on a desk next to a computer 
-0,leaper,"a living room with a couch , a television , and a television "
+0,leaper,a living room with a couch , a television , and a television 
 0,du,a group of young men playing a game of baseball 
 0,hare,a stop sign with a stop sign on it 
 0,covey,a red and white photo of a city street 
@@ -18227,7 +18227,7 @@ label,word,caption
 0,aha,a street scene with a clock on the side of it 
 1,extra,a dog is sitting on a couch with a remote 
 0,v,a plate of food with a sandwich and a drink 
-0,pranks,"a room with a couch , a television , and a television "
+0,pranks,a room with a couch , a television , and a television 
 0,2009,a large airplane is parked on the runway 
 0,niter,a group of people standing in front of a red and white umbrella 
 0,imitates,a man is playing tennis on a tennis court 
@@ -18583,12 +18583,12 @@ label,word,caption
 0,kegs,a person is holding a cell phone in front of a television 
 0,billow,a baseball player swinging a bat at a ball 
 0,zoe,a woman is eating a piece of pizza on a table 
-0,marty,"a living room with a couch , chair and a television "
+0,marty,a living room with a couch , chair and a television 
 0,owl,a group of people standing around a ski lift 
 0,rec,a clock on a wall with a clock on it 
 0,fy,a baby is sitting in a chair with a cat 
 0,ai,a plate of food with a fork and a fork 
-0,er,"a living room with a couch , a television , and a television "
+0,er,a living room with a couch , a television , and a television 
 0,zincking,a large airplane sitting on top of a runway 
 0,33,a man on a motorcycle is going down a track 
 0,values,a laptop computer sitting on top of a desk 
@@ -18622,7 +18622,7 @@ label,word,caption
 0,enthusiastically,a large jetliner flying through the sky with a sky background 
 0,weir,a group of people walking down a street with a large umbrella 
 0,ht,a man is playing tennis on a tennis court 
-0,grassiest,"a living room with a couch , a television , and a television "
+0,grassiest,a living room with a couch , a television , and a television 
 0,le,a baseball player swinging a bat at a ball 
 0,gcr,a stop sign with a stop sign on it 
 0,furthermost,a large jetliner flying through a blue sky 
@@ -18794,7 +18794,7 @@ label,word,caption
 0,zs,a woman is holding a laptop in front of a window 
 0,aunt,a toilet with a toilet seat in a bathroom 
 0,anglers,a bus that is parked on a street corner 
-0,osco,"a bathroom with a sink , toilet and a window "
+0,osco,a bathroom with a sink , toilet and a window 
 0,nm,a dog laying on a couch next to a cat 
 0,ming,a bicycle parked next to a building with a bicycle 
 0,ink,a bunch of bananas are sitting in a store 
@@ -18845,7 +18845,7 @@ label,word,caption
 0,52,a man is holding a pizza in a box 
 0,bb,a man wearing a hat and a tie 
 0,carve,a man is holding a cake with a knife 
-0,kw,"a living room with a television , a television and a television "
+0,kw,a living room with a television , a television and a television 
 0,biographical,a man and woman sitting at a table eating pizza 
 0,30,a clock is displayed on a wall with a clock on it 
 0,gesture,a red and white bus parked on a street 
@@ -19149,14 +19149,14 @@ label,word,caption
 0,8,a bunch of people on a beach with a kite 
 0,abed,a large airplane sitting on top of a runway 
 0,ii,a man is surfing in the ocean with a surfboard 
-0,ress,"a bathroom with a sink , a sink and a window "
+0,ress,a bathroom with a sink , a sink and a window 
 0,joy,a group of people standing next to a bunch of bananas 
 0,thurs,a motorcycle parked on a sidewalk next to a building 
 0,beeping,a man is walking down a street with a cell phone 
 0,lush,a man is holding a laptop in front of a store 
 0,lear,a small dog is sitting on a table with a cat 
 0,ss,a man is holding a tennis racket in his hand 
-0,la,a sign that reads `` <unk> '' on a pole 
+0,la,a sign that reads  on a pole 
 0,tag,a baseball player swinging a bat at a ball 
 1,28,a boat is docked in the water near a lake 
 0,asl,a plate of food with a sandwich and a drink 
@@ -19240,7 +19240,7 @@ label,word,caption
 0,stops,a stop sign with a stop sign on it 
 0,extraordinarily,a woman sitting on a bench with a cat on her lap 
 0,y,a cat laying on a bed next to a cat 
-0,forbid,"a kitchen with a stove , stove and a stove "
+0,forbid,a kitchen with a stove , stove and a stove 
 0,rub,a man is holding a large teddy bear in a cage 
 0,julia,a person is holding a cell phone in front of a television 
 0,hows,a man and a woman are sitting in front of a cake 
@@ -19414,7 +19414,7 @@ label,word,caption
 0,daze,a train is going down the tracks in a rural area 
 0,survey,a piece of cake on a plate next to a cup of coffee 
 0,bani,a black and white photo of a train on a track 
-0,ir,"a living room with a couch , a television , and a television "
+0,ir,a living room with a couch , a television , and a television 
 0,2,a red fire hydrant sitting on the side of a street 
 0,ns,a group of people playing a game of tennis 
 0,neumos,a person is holding a small child in a kitchen 
@@ -19435,7 +19435,7 @@ label,word,caption
 0,li,a group of young men playing a game of frisbee 
 0,buy,a pizza with a slice missing on it 
 0,thicko,a wooden bench sitting next to a building 
-0,m,"a room with a bed , a table , and a table "
+0,m,a room with a bed , a table , and a table 
 0,ls,a man and woman sitting at a table with a laptop 
 0,stroll,a man holding a cell phone in his hand 
 0,met,a truck with a red truck parked on the street 
@@ -19521,7 +19521,7 @@ label,word,caption
 0,humbugs,a television is sitting on a wooden table 
 0,mozilla,a street sign with a red fire hydrant on it 
 0,a,a bunch of bananas sitting on a table 
-0,currant,"a kitchen with a sink , sink and a sink "
+0,currant,a kitchen with a sink , sink and a sink 
 0,allured,a woman is preparing food in a kitchen 
 1,2,a bunch of bananas are sitting on a table 
 0,io,a man riding a motorcycle on a city street 
@@ -19549,7 +19549,7 @@ label,word,caption
 0,aux,a dog laying on a bed with a cat on it 
 0,eds,a bus is driving down a street next to a building 
 0,gupta,a truck parked in front of a truck 
-0,had,"a living room with a couch , a television , and a television "
+0,had,a living room with a couch , a television , and a television 
 0,remedy,a baseball player swinging a bat at a ball 
 0,downstate,a large building with a clock on the side of it 
 0,donna,a street sign with a sign on the side of it 
@@ -19587,7 +19587,7 @@ label,word,caption
 0,ossify,a boat is parked in a small boat 
 0,lungful,a man is doing a trick on a skateboard 
 0,buzzes,a man sitting on a motorcycle in a parking lot 
-0,atishoo,"a kitchen with a stove , oven , and a stove "
+0,atishoo,a kitchen with a stove , oven , and a stove 
 0,0,a man wearing a red shirt and a tie 
 0,revitalized,a person flying a kite in the sky 
 0,lug,a man is playing frisbee in a field 
@@ -19629,7 +19629,7 @@ label,word,caption
 0,w,a bunch of motorcycles parked in a parking lot 
 0,a11,a man is playing a video game on a television 
 0,scrim,a man holding a plate of food on a table 
-0,pinto,"a living room with a couch , a television , and a television "
+0,pinto,a living room with a couch , a television , and a television 
 0,usu,a baseball player swinging a bat at a ball 
 0,goods,a dog is sitting on a couch with a cat on the back 
 0,zs,a street sign with a sign on the side of it 
@@ -19772,7 +19772,7 @@ label,word,caption
 0,mooted,a large clock tower with a clock on it 
 0,ala,a large airplane is parked on the runway 
 0,xciv,a man is holding a cell phone in front of a television 
-0,sex,"a living room with a couch , a table and a table "
+0,sex,a living room with a couch , a table and a table 
 0,rogue,a group of people riding motorcycles on a street 
 0,veg,a close up of a street sign with a clock on it 
 0,ga,a person holding a cell phone in a room 
@@ -19848,7 +19848,7 @@ label,word,caption
 0,gassy,a red and white photo of a street sign 
 0,erect,a street sign with a sign on top of it 
 0,53,a large room with a bunch of luggage on it 
-0,naif,"a kitchen with a stove , stove , and a counter top "
+0,naif,a kitchen with a stove , stove , and a counter top 
 0,robson,a street scene with a street sign and a street sign 
 0,now,a man is cooking in a kitchen with a bowl of food 
 0,coiner,a cat is sitting on a desk next to a computer monitor 
@@ -20168,7 +20168,7 @@ label,word,caption
 0,mob,a parking meter with a parking meter on it 
 0,1,a red and yellow bus driving down a street 
 0,snaps,a man and woman sitting on a bench with a dog 
-0,bl,"a living room with a couch , a couch , and a television "
+0,bl,a living room with a couch , a couch , and a television 
 0,33,a train is traveling down a track next to a train station 
 0,arrays,a large jetliner sitting on top of a runway 
 0,resole,a small kitchen with a blender and a cup of coffee 
@@ -20200,7 +20200,7 @@ label,word,caption
 0,gondolier,a man is riding a bike on a city street 
 0,foot,a bus that is driving down a street 
 0,pain,a large jetliner sitting on top of a runway 
-0,squirrel,"a living room with a couch , a television , and a television "
+0,squirrel,a living room with a couch , a television , and a television 
 0,liveryman,a man is eating a donut in a box 
 0,boa,a large airplane is flying in the sky 
 0,io,a stop sign with a stop sign on it 
@@ -20340,7 +20340,7 @@ label,word,caption
 0,eh,a plate of food with a hot dog and a drink 
 0,roving,a parking meter with a parking meter on it 
 0,toss,a person holding a pair of scissors in his hand 
-0,bardeen,a sign that reads `` <unk> '' on a pole 
+0,bardeen,a sign that reads  on a pole 
 0,eeo,a bus is parked on the side of a street 
 0,bell,a woman is sitting at a table with a plate of food 
 0,amortizing,a man riding a motorcycle on a dirt road 
@@ -20359,7 +20359,7 @@ label,word,caption
 0,e,a man is cooking in a kitchen with a large amount of food 
 0,g,a bus is parked on the side of a road 
 0,gioco,a man and woman are standing in front of a group of people 
-0,if,"a bedroom with a bed , a bed , and a window "
+0,if,a bedroom with a bed , a bed , and a window 
 0,titles,a man is standing in front of a red truck 
 0,fined,a traffic light on a pole on a street corner 
 0,aware,a blender with a glass of wine on top of it 
@@ -20482,7 +20482,7 @@ label,word,caption
 0,u,a train is traveling down a track next to a building 
 0,aromas,a bicycle parked next to a bike parked on a sidewalk 
 0,mw,a bunch of different types of luggage on a table 
-0,rpm,"a kitchen with a sink , sink and a refrigerator "
+0,rpm,a kitchen with a sink , sink and a refrigerator 
 0,4,a couple of elephants standing next to each other 
 0,7,a man holding a tennis racket on a tennis court 
 0,mail,a bathroom with a toilet and a sink 
@@ -20712,7 +20712,7 @@ label,word,caption
 0,4x4,a small child wearing a red bow tie 
 0,suppress,a large jetliner flying through the sky with a sky background 
 0,vulgarly,a desk with a laptop and a laptop on it 
-0,mlle,"a living room with a television , television , and a television "
+0,mlle,a living room with a television , television , and a television 
 0,az,a bunch of oranges sitting on a table 
 0,x,a man is surfing on a wave in the ocean 
 0,705,a red and white bus driving down a street 
@@ -21223,7 +21223,7 @@ label,word,caption
 0,woozy,a pair of scissors and a skateboard on a sidewalk 
 0,5,a bunch of bananas are sitting on a table 
 0,keogh,a man is playing a game of soccer on a field 
-0,sj,"a living room with a couch , a television , and a television "
+0,sj,a living room with a couch , a television , and a television 
 0,ssh,a street sign with a sign on the side of it 
 0,lu,a plate of food with a fork and a fork 
 0,verbena,a stop sign with a stop sign on it 
@@ -21256,7 +21256,7 @@ label,word,caption
 0,gush,a red and yellow truck parked on a street 
 0,ty,a man is walking down a street with a cell phone 
 0,swell,a cat is sitting on a desk next to a computer 
-0,caph,"a living room with a couch , a television , and a television "
+0,caph,a living room with a couch , a television , and a television 
 0,pw,a group of young men playing a game of baseball 
 0,maize,a stop sign with a stop sign on it 
 0,pro,a red and white photo of a city street 
@@ -21346,7 +21346,7 @@ label,word,caption
 0,alma,a street scene with a clock on the side of it 
 0,biro,a dog is sitting on a couch with a remote 
 0,jul,a plate of food with a sandwich and a drink 
-0,ozarks,"a room with a couch , a television , and a television "
+0,ozarks,a room with a couch , a television , and a television 
 0,2008,a large airplane is parked on the runway 
 0,mitzi,a group of people standing in front of a red and white umbrella 
 0,emitters,a man is playing tennis on a tennis court 
@@ -21702,12 +21702,12 @@ label,word,caption
 0,key,a person is holding a cell phone in front of a television 
 0,blob,a baseball player swinging a bat at a ball 
 0,vans,a woman is eating a piece of pizza on a table 
-0,carty,"a living room with a couch , chair and a television "
+0,carty,a living room with a couch , chair and a television 
 0,dwi,a group of people standing around a ski lift 
 0,rein,a clock on a wall with a clock on it 
 0,fm,a baby is sitting in a chair with a cat 
 0,qr,a plate of food with a fork and a fork 
-0,bbs,"a living room with a couch , a television , and a television "
+0,bbs,a living room with a couch , a television , and a television 
 0,airships,a large airplane sitting on top of a runway 
 0,sb,a man on a motorcycle is going down a track 
 0,jowliest,a laptop computer sitting on top of a desk 
@@ -21741,7 +21741,7 @@ label,word,caption
 0,antimalarial,a large jetliner flying through the sky with a sky background 
 0,xor,a group of people walking down a street with a large umbrella 
 0,pkt,a man is playing tennis on a tennis court 
-0,roosted,"a living room with a couch , a television , and a television "
+0,roosted,a living room with a couch , a television , and a television 
 0,818,a baseball player swinging a bat at a ball 
 0,sop,a stop sign with a stop sign on it 
 0,extremest,a large jetliner flying through a blue sky 
@@ -21913,7 +21913,7 @@ label,word,caption
 0,us,a woman is holding a laptop in front of a window 
 0,ama,a toilet with a toilet seat in a bathroom 
 0,anxieties,a bus that is parked on a street corner 
-0,bench,"a bathroom with a sink , toilet and a window "
+0,bench,a bathroom with a sink , toilet and a window 
 0,agar,a dog laying on a couch next to a cat 
 0,using,a bicycle parked next to a building with a bicycle 
 0,xxix,a bunch of bananas are sitting in a store 
@@ -21964,7 +21964,7 @@ label,word,caption
 0,a12,a man is holding a pizza in a box 
 0,usda,a man wearing a hat and a tie 
 0,entry,a man is holding a cake with a knife 
-0,mw,"a living room with a television , a television and a television "
+0,mw,a living room with a television , a television and a television 
 0,bagpiper,a man and woman sitting at a table eating pizza 
 0,59,a clock is displayed on a wall with a clock on it 
 0,censure,a red and white bus parked on a street 
@@ -22268,14 +22268,14 @@ label,word,caption
 0,t,a bunch of people on a beach with a kite 
 0,iso,a large airplane sitting on top of a runway 
 0,at,a man is surfing in the ocean with a surfboard 
-0,ron,"a bathroom with a sink , a sink and a window "
+0,ron,a bathroom with a sink , a sink and a window 
 0,ops,a group of people standing next to a bunch of bananas 
 0,thy,a motorcycle parked on a sidewalk next to a building 
 0,berra,a man is walking down a street with a cell phone 
 0,usa,a man is holding a laptop in front of a store 
 0,neat,a small dog is sitting on a table with a cat 
 0,4x4,a man is holding a tennis racket in his hand 
-0,ir,a sign that reads `` <unk> '' on a pole 
+0,ir,a sign that reads  on a pole 
 0,a,a baseball player swinging a bat at a ball 
 0,7,a boat is docked in the water near a lake 
 0,ia,a plate of food with a sandwich and a drink 
@@ -22359,7 +22359,7 @@ label,word,caption
 0,stow,a stop sign with a stop sign on it 
 0,telephotography,a woman sitting on a bench with a cat on her lap 
 0,i,a cat laying on a bed next to a cat 
-0,arabic,"a kitchen with a stove , stove and a stove "
+0,arabic,a kitchen with a stove , stove and a stove 
 0,ml,a man is holding a large teddy bear in a cage 
 0,tun,a person is holding a cell phone in front of a television 
 0,hold,a man and a woman are sitting in front of a cake 
@@ -22533,7 +22533,7 @@ label,word,caption
 0,vale,a train is going down the tracks in a rural area 
 0,southey,a piece of cake on a plate next to a cup of coffee 
 0,gm,a black and white photo of a train on a track 
-0,ts,"a living room with a couch , a television , and a television "
+0,ts,a living room with a couch , a television , and a television 
 0,52,a red fire hydrant sitting on the side of a street 
 0,114,a group of people playing a game of tennis 
 0,evenings,a person is holding a small child in a kitchen 
@@ -22554,7 +22554,7 @@ label,word,caption
 0,ak,a group of young men playing a game of frisbee 
 0,comfy,a pizza with a slice missing on it 
 0,physio,a wooden bench sitting next to a building 
-0,t,"a room with a bed , a table , and a table "
+0,t,a room with a bed , a table , and a table 
 0,c,a man and woman sitting at a table with a laptop 
 0,grog,a man holding a cell phone in his hand 
 0,hen,a truck with a red truck parked on the street 
@@ -22640,7 +22640,7 @@ label,word,caption
 0,ignores,a television is sitting on a wooden table 
 0,niobium,a street sign with a red fire hydrant on it 
 0,13,a bunch of bananas sitting on a table 
-0,exmouth,"a kitchen with a sink , sink and a sink "
+0,exmouth,a kitchen with a sink , sink and a sink 
 0,mitered,a woman is preparing food in a kitchen 
 0,8,a bunch of bananas are sitting on a table 
 0,5,a man riding a motorcycle on a city street 
@@ -22668,7 +22668,7 @@ label,word,caption
 0,rave,a dog laying on a bed with a cat on it 
 0,dos,a bus is driving down a street next to a building 
 0,ofelia,a truck parked in front of a truck 
-0,housemaid,"a living room with a couch , a television , and a television "
+0,housemaid,a living room with a couch , a television , and a television 
 0,kenneth,a baseball player swinging a bat at a ball 
 0,dumbbells,a large building with a clock on the side of it 
 0,ohms,a street sign with a sign on the side of it 
@@ -22706,7 +22706,7 @@ label,word,caption
 0,cussed,a boat is parked in a small boat 
 0,limeys,a man is doing a trick on a skateboard 
 0,indulgences,a man sitting on a motorcycle in a parking lot 
-0,afro,"a kitchen with a stove , oven , and a stove "
+0,afro,a kitchen with a stove , oven , and a stove 
 0,g,a man wearing a red shirt and a tie 
 0,contentions,a person flying a kite in the sky 
 0,jugs,a man is playing frisbee in a field 
@@ -22748,7 +22748,7 @@ label,word,caption
 0,4,a bunch of motorcycles parked in a parking lot 
 0,alt,a man is playing a video game on a television 
 0,scam,a man holding a plate of food on a table 
-0,phx,"a living room with a couch , a television , and a television "
+0,phx,a living room with a couch , a television , and a television 
 0,isl,a baseball player swinging a bat at a ball 
 0,905,a dog is sitting on a couch with a cat on the back 
 0,13,a street sign with a sign on the side of it 
@@ -22891,7 +22891,7 @@ label,word,caption
 0,andorra,a large clock tower with a clock on it 
 0,le,a large airplane is parked on the runway 
 0,keg,a man is holding a cell phone in front of a television 
-0,sse,"a living room with a couch , a table and a table "
+0,sse,a living room with a couch , a table and a table 
 0,roger,a group of people riding motorcycles on a street 
 0,nun,a close up of a street sign with a clock on it 
 0,usa,a person holding a cell phone in a room 
@@ -22967,7 +22967,7 @@ label,word,caption
 0,glossy,a red and white photo of a street sign 
 0,expat,a street sign with a sign on top of it 
 0,jr,a large room with a bunch of luggage on it 
-0,next,"a kitchen with a stove , stove , and a counter top "
+0,next,a kitchen with a stove , stove , and a counter top 
 0,edson,a street scene with a street sign and a street sign 
 0,raw,a man is cooking in a kitchen with a bowl of food 
 0,cyber,a cat is sitting on a desk next to a computer monitor 
@@ -23287,7 +23287,7 @@ label,word,caption
 0,impel,a parking meter with a parking meter on it 
 0,22,a red and yellow bus driving down a street 
 0,my,a man and woman sitting on a bench with a dog 
-0,es,"a living room with a couch , a couch , and a television "
+0,es,a living room with a couch , a couch , and a television 
 0,gs,a train is traveling down a track next to a train station 
 0,stairways,a large jetliner sitting on top of a runway 
 0,cz,a small kitchen with a blender and a cup of coffee 
@@ -23319,7 +23319,7 @@ label,word,caption
 0,conduce,a man is riding a bike on a city street 
 0,poos,a bus that is driving down a street 
 0,mia,a large jetliner sitting on top of a runway 
-0,conjunct,"a living room with a couch , a television , and a television "
+0,conjunct,a living room with a couch , a television , and a television 
 0,vestryman,a man is eating a donut in a box 
 0,beta,a large airplane is flying in the sky 
 0,10,a stop sign with a stop sign on it 
@@ -23459,7 +23459,7 @@ label,word,caption
 0,zr,a plate of food with a hot dog and a drink 
 0,kongo,a parking meter with a parking meter on it 
 0,ross,a person holding a pair of scissors in his hand 
-0,balder,a sign that reads `` <unk> '' on a pole 
+0,balder,a sign that reads  on a pole 
 0,qfc,a bus is parked on the side of a street 
 0,efl,a woman is sitting at a table with a plate of food 
 0,soothing,a man riding a motorcycle on a dirt road 
@@ -23478,7 +23478,7 @@ label,word,caption
 0,i,a man is cooking in a kitchen with a large amount of food 
 1,a,a bus is parked on the side of a road 
 0,hosp,a man and woman are standing in front of a group of people 
-0,ie,"a bedroom with a bed , a bed , and a window "
+0,ie,a bedroom with a bed , a bed , and a window 
 0,jib,a man is standing in front of a red truck 
 0,fixes,a traffic light on a pole on a street corner 
 0,anita,a blender with a glass of wine on top of it 
@@ -23601,7 +23601,7 @@ label,word,caption
 0,gp,a train is traveling down a track next to a building 
 0,mormon,a bicycle parked next to a bike parked on a sidewalk 
 0,jurua,a bunch of different types of luggage on a table 
-0,mirzam,"a kitchen with a sink , sink and a refrigerator "
+0,mirzam,a kitchen with a sink , sink and a refrigerator 
 0,r,a couple of elephants standing next to each other 
 0,1,a man holding a tennis racket on a tennis court 
 0,mat,a bathroom with a toilet and a sink 
@@ -23831,7 +23831,7 @@ label,word,caption
 0,qc,a small child wearing a red bow tie 
 0,empresses,a large jetliner flying through the sky with a sky background 
 0,interpol,a desk with a laptop and a laptop on it 
-0,mile,"a living room with a television , television , and a television "
+0,mile,a living room with a television , television , and a television 
 0,le,a bunch of oranges sitting on a table 
 0,e,a man is surfing on a wave in the ocean 
 0,nos,a red and white bus driving down a street 
@@ -24342,7 +24342,7 @@ label,word,caption
 0,glycogen,a pair of scissors and a skateboard on a sidewalk 
 0,33,a bunch of bananas are sitting on a table 
 0,flock,a man is playing a game of soccer on a field 
-0,sss,"a living room with a couch , a television , and a television "
+0,sss,a living room with a couch , a television , and a television 
 0,oh,a street sign with a sign on the side of it 
 0,id,a plate of food with a fork and a fork 
 0,jason,a stop sign with a stop sign on it 
@@ -24375,7 +24375,7 @@ label,word,caption
 0,gish,a red and yellow truck parked on a street 
 0,ri,a man is walking down a street with a cell phone 
 0,tuvalu,a cat is sitting on a desk next to a computer 
-0,laps,"a living room with a couch , a television , and a television "
+0,laps,a living room with a couch , a television , and a television 
 0,aux,a group of young men playing a game of baseball 
 0,nate,a stop sign with a stop sign on it 
 0,pig,a red and white photo of a city street 
@@ -24465,7 +24465,7 @@ label,word,caption
 0,nina,a street scene with a clock on the side of it 
 0,tetra,a dog is sitting on a couch with a remote 
 0,due,a plate of food with a sandwich and a drink 
-0,pahl,"a room with a couch , a television , and a television "
+0,pahl,a room with a couch , a television , and a television 
 0,togo,a large airplane is parked on the runway 
 0,nth,a group of people standing in front of a red and white umbrella 
 0,exhilarates,a man is playing tennis on a tennis court 
@@ -24821,12 +24821,12 @@ label,word,caption
 0,recd,a person is holding a cell phone in front of a television 
 0,billfold,a baseball player swinging a bat at a ball 
 0,1996,a woman is eating a piece of pizza on a table 
-0,dirty,"a living room with a couch , chair and a television "
+0,dirty,a living room with a couch , chair and a television 
 0,clvi,a group of people standing around a ski lift 
 0,rh,a clock on a wall with a clock on it 
 0,fir,a baby is sitting in a chair with a cat 
 0,ok,a plate of food with a fork and a fork 
-0,bs,"a living room with a couch , a television , and a television "
+0,bs,a living room with a couch , a television , and a television 
 0,hirohito,a large airplane sitting on top of a runway 
 0,3,a man on a motorcycle is going down a track 
 0,waviness,a laptop computer sitting on top of a desk 
@@ -24860,7 +24860,7 @@ label,word,caption
 0,inimically,a large jetliner flying through the sky with a sky background 
 0,vcr,a group of people walking down a street with a large umbrella 
 0,let,a man is playing tennis on a tennis court 
-0,prosiest,"a living room with a couch , a television , and a television "
+0,prosiest,a living room with a couch , a television , and a television 
 0,ge,a baseball player swinging a bat at a ball 
 0,syn,a stop sign with a stop sign on it 
 0,lutheranism,a large jetliner flying through a blue sky 
