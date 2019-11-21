@@ -30,7 +30,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 [3]: https://www.mathworks.com/campaigns/products/trials.html
 [1]:http://www.vlfeat.org/matconvnet/install/
-[Pre-trained]:http://www.vlfeat.org/matconvnet/pretrained)
+[Pre-trained]:http://www.vlfeat.org/matconvnet/pretrained
 
 
 
