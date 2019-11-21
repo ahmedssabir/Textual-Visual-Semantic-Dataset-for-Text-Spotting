@@ -69,8 +69,9 @@ spotted word(gt), places/object- co-occurrence information between text and obje
 
 ## Dictionary 300K
 - Matlab 2018 
-- Load the [Pre-trained Dictionary] (T3w.m, T3N.m)  [opensubtitle](https://www.duo.uio.no/bitstream/handle/10852/50459/947_Paper.pdf?sequence=4) (3510867) unique token
-- runMap = containers.Map(T3w, T3N); 
+- Load the [Pre-trained Dictionary] A) [opensubtitle](https://www.duo.uio.no/bitstream/handle/10852/50459/947_Paper.pdf?sequence=4)   or B) [enhanced version with google n-gram](https://books.google.com/ngrams/info)   (3510867) unique token
+A) runMap = containers.Map(T3w, T3N); 
+B) runMap = containers.Map(opensub_google_ngram_W, opensub_google_ngram_N)
 - word = runMap('barcelona')  
 
 [Pre-trained Dictionary]:https://www.dropbox.com/sh/1af43nvlmac54ib/AADyRtK4ztyTS65hull1gyxMa?dl=0
