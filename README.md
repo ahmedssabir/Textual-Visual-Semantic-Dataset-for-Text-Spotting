@@ -68,7 +68,7 @@ spotted word(gt), places/object- co-occurrence information between text and obje
 
 ## Dictionary (Unigram Language Model)
 - Matlab 2018 
-- Load the Pre-trained Dictionary (file1.m, file2.m) 
+- Load the Pre-trained Dictionary (T3w.m, T3N.m) 
 - runMap = containers.Map(T3w, T3N); 
 - word = runMap('barcelona')  
 
