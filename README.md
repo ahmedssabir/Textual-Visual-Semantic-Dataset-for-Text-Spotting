@@ -73,5 +73,5 @@ spotted word(gt), places/object- co-occurrence information between text and obje
 - runMap = containers.Map(T3w, T3N); 
 - word = runMap('barcelona')  
 
-[Pre-trained Dictionary]https://www.dropbox.com/sh/1af43nvlmac54ib/AADyRtK4ztyTS65hull1gyxMa?dl=0
-[opensubtitle]https://www.duo.uio.no/bitstream/handle/10852/50459
+[Pre-trained Dictionary]:https://www.dropbox.com/sh/1af43nvlmac54ib/AADyRtK4ztyTS65hull1gyxMa?dl=0
+[opensubtitle]:https://www.duo.uio.no/bitstream/handle/10852/50459
