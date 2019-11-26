@@ -1,4 +1,4 @@
-imageID,word,inception_v1,Inception-resnet ,place
+imageID,word,object_1 , object_2 ,place
 COCO_train2014_000000000036.jpg,e,umbrella,umbrella,stage/outdoor
 COCO_train2014_000000000064.jpg,roi,scale,clock,parking_lot
 COCO_train2014_000000000394.jpg,skimmer,Maltese,poodle,yard
