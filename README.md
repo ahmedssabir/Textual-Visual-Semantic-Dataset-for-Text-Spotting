@@ -1,7 +1,7 @@
 # Textual Visual Semantic Dataset for Text Spotting  
 <!---Visual Re-ranking with Natural Language Understanding for Text Spotting -->
 
-![full image](https://github.com/ahmedssabir/dataset/blob/master/example.pdf)
+![example](https://github.com/ahmedssabir/dataset/blob/master/example.pdf)
 
 This dataset has been used in these papers:
 
