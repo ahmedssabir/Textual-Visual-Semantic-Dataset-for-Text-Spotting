@@ -58,7 +58,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
  
  ## For testing  (image description) 
  This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
-- Image_id, spotted word(baseline), caption
+- Image_id, spotted word(baseline),object_1, object_2, place, caption
 
  ## Object and text co-occurrence database
 spotted word(gt), places/object- co-occurrence information between text and objects
