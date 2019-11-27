@@ -38,7 +38,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 
   ## Visual contexts dataset (object, places*)  word level   
- - [x]
+- [x] Finish my changes
  - Image_id, spotted word(gt), objects, places
  -  Example: `COCO_train2014_000000000081.jpg,airfracne, airliner, airfield`
  
