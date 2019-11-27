@@ -79,7 +79,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 - [x] word level 
 - [ ] sentence level
 - spotted word(gt), places/object- co-occurrence information between text and objects
-- The conditional probability of P(w|c) = count(w,c)/count(c) object/text happen togaher in COCO-text `object-text-co-occurrence-(P(w|c)`
+- The conditional probability of P(word|object) = count(word,object)/count(object) object/text happen togaher in COCO-text `object-text-co-occurrence-(P(w|c)`
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
