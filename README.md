@@ -36,9 +36,8 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [Pre-trained]:http://www.vlfeat.org/matconvnet/pretrained
 
 
-## *Visual contexts dataset* 
- 
- ## Visual contexts 1 (object, places*)  
+
+  ## Visual contexts dataset (object, places*) `(word level)`   
  - Image_id, spotted word(gt), objects, places
  -  Example: `COCO_train2014_000000000081.jpg,airfracne, airliner, airfield`
  
@@ -47,23 +46,23 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 [Places365-CNNs]:https://github.com/CSAILVision/places365
  
- ## For testing (object1, object2, places)
+ ## For testing (object1, object2, places) `(word level)` 
  This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 
 - Image_id, spotted word(baseline), objects1,object2,places
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
 
- ## Visual contexts 2 (image description, object, place)  
+ ## Visual contexts 2 (image description, object, place) `(sentence level)` 
  - Image_id, spotted word(gt/baseline), caption
  - Example: `COCO_train2014_000000000081.jpg, airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
  
  
- ## For testing  (image description) 
+ ## For testing  (image description) `(sentence level)` 
  This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 - Image_id, spotted word(baseline),object_1, object_2, place, caption
 
- ## Object and text co-occurrence database
+ ## Object and text co-occurrence database `(word level)`
 spotted word(gt), places/object- co-occurrence information between text and objects
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
 
@@ -71,7 +70,7 @@ spotted word(gt), places/object- co-occurrence information between text and obje
 [6]:http://rrc.cvc.uab.es/?ch=5&com=tasks
 
 
-## Dictionary 300K
+## Dictionary 300K 
 - Matlab 2018 
 - Load the [Pre-trained Dictionary] A) [opensubtitle](https://www.duo.uio.no/bitstream/handle/10852/50459/947_Paper.pdf?sequence=4)   or B) [enhanced version with google n-gram](https://books.google.com/ngrams/info)   
 - A) runMap = containers.Map(T3w, T3N)
