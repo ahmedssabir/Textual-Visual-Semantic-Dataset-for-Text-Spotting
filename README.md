@@ -37,6 +37,8 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 
 ## Visual contexts dataset statistics
+![example1](https://github.com/ahmedssabir/dataset/blob/master/freq-all-1.jpg)
+ 
  
  ## Visual contexts 1 (object, places*)  
  - Image_id, spotted word(gt), objects, places
