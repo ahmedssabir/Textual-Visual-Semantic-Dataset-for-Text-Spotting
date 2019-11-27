@@ -49,13 +49,15 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
  
  ## For testing (object1, object2, places) 
 - [x] word level
- This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
+- [ ] sentence level
+- This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 
 - Image_id, spotted word(baseline), objects1,object2,places
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
 
  ## Visual contexts 2 (image description, object, place) 
+ [x] word level
  [x] sentence level
  - Image_id, spotted word(gt/baseline), caption
  - Example: `COCO_train2014_000000000081.jpg, airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
@@ -63,11 +65,12 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
  
  ## For testing  (image description) 
  [x] sentence level
- This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
+- This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 - Image_id, spotted word(baseline),object_1, object_2, place, caption
 
  ## Object and text co-occurrence database 
 - [x] word level 
+- [ ] sentence level
 spotted word(gt), places/object- co-occurrence information between text and objects
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
 
