@@ -19,7 +19,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 [4]: https://github.com/andreasveit/coco-text
 
-## 2) Extracting  the Bounding box and top-k objects (from object classifer) 
+## 2 -  Extracting  the Bounding box and top-k objects (from object classifer) 
 - [Matlab 2018][3] - you only need to run it once 
 - [MatConvNet][1] open source deep learning freamework 
 - Download most recent [Pre-trained] SOTA object classifer or Resnet152 (this code)  
