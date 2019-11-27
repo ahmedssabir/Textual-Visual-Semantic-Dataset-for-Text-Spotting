@@ -1,4 +1,4 @@
-# Textual Visual Semantic Dataset for Text Spotting  
+$`\sqrt{2}`$# Textual Visual Semantic Dataset for Text Spotting  
 <!---Visual Re-ranking with Natural Language Understanding for Text Spotting -->
 
 ![example](https://github.com/ahmedssabir/dataset/blob/master/example.jpg)
@@ -54,7 +54,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [Places365-CNNs]:https://github.com/CSAILVision/places365
  
  ## For testing (object1, object2, places) 
-- [x] word level
+$`\sqrt{2}`$- [x] word level
 - [ ] sentence level
 - This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 
@@ -82,7 +82,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 - The conditional probability of  object/text happen togaher in COCO-text P(word|object) = count(word,object)/count(object) `object-text-co-occurrence-(P(w|c)` 
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
 ```math
-a^2+b^2=c^2
+$`\sqrt{2}`$
 ```
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
