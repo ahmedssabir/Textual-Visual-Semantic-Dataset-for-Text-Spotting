@@ -90,6 +90,6 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [Pre-trained Dictionary]:https://www.dropbox.com/sh/1af43nvlmac54ib/AADyRtK4ztyTS65hull1gyxMa?dl=0
 [opensubtitle]:https://www.duo.uio.no/bitstream/handle/10852/50459
 
-## Feedback
+## Feedback :thinking:
 Suggestions and opinions of this dataset (both positive and negative) are greatly welcome. Please contact the author by sending email to asabir◎cs。upc。edu
  
