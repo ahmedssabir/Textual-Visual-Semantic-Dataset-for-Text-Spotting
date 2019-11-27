@@ -54,7 +54,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [Places365-CNNs]:https://github.com/CSAILVision/places365
  
  ## For testing (object1, object2, places) 
-$`\sqrt{2}`$- [x] word level
+- [x] word level
 - [ ] sentence level
 - This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 
