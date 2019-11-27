@@ -1,4 +1,4 @@
-$`\sqrt{2}`$# Textual Visual Semantic Dataset for Text Spotting  
+Textual Visual Semantic Dataset for Text Spotting  
 <!---Visual Re-ranking with Natural Language Understanding for Text Spotting -->
 
 ![example](https://github.com/ahmedssabir/dataset/blob/master/example.jpg)
