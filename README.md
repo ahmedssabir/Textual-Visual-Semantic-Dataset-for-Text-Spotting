@@ -81,7 +81,7 @@ $`\sqrt{2}`$- [x] word level
 - spotted word(gt), places/object- co-occurrence information between text and objects
 - The conditional probability of  object/text happen togaher in COCO-text P(word|object) = count(word,object)/count(object) `object-text-co-occurrence-(P(w|c)` 
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
-
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
  <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
