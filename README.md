@@ -36,8 +36,8 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [Pre-trained]:http://www.vlfeat.org/matconvnet/pretrained
 
 
-## Visual contexts dataset statistics
-![example1](https://github.com/ahmedssabir/dataset/blob/master/freq-all-1.jpg)
+## Visual contexts dataset 
+![example1](https://github.com/ahmedssabir/dataset/blob/master/Figure-3.jpg)
  
  
  ## Visual contexts 1 (object, places*)  
