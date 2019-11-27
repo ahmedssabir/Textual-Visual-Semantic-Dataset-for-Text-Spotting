@@ -63,7 +63,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 - Image_id, spotted word(baseline),object_1, object_2, place, caption
 
  ## Object and text co-occurrence database
--spotted word(gt), places/object- co-occurrence information between text and objects
+spotted word(gt), places/object- co-occurrence information between text and objects
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
