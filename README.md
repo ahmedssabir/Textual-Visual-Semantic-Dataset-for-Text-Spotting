@@ -37,7 +37,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 
 ## Visual contexts dataset 
-![example1](https://github.com/ahmedssabir/dataset/blob/master/Figure-3.jpg)
+![example](https://github.com/ahmedssabir/dataset/blob/master/Figure-3.jpg)
  
  
  ## Visual contexts 1 (object, places*)  
