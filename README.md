@@ -6,9 +6,9 @@
 
 This dataset has been used in these papers:
 
-Visual Re-ranking with Natural Language Understanding for Text Spotting https://arxiv.org/pdf/1810.12738.pdf `Updates Coming Soon`
+`Visual Re-ranking with Natural Language Understanding for Text Spotting` https://arxiv.org/pdf/1810.12738.pdf 
 
-Semantic Relatedness Based Re-ranker for Text Spotting https://arxiv.org/pdf/1909.07950.pdf  `coming soon`
+`Semantic Relatedness Based Re-ranker for Text Spotting` https://arxiv.org/pdf/1909.07950.pdf  
 
 
 ## Motivation
