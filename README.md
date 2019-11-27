@@ -62,7 +62,7 @@ $`\sqrt{2}`$- [x] word level
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
 
- ## Visual contexts 2 (image description, object, place) 
+ ## Visual contexts 2 (image description, object, place) <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 - [x] word level
 - [x] sentence level
  - Image_id, spotted word(gt/baseline), caption
@@ -82,7 +82,7 @@ $`\sqrt{2}`$- [x] word level
 - The conditional probability of  object/text happen togaher in COCO-text ![formula] (P(w\vert c)\;=\;\frac{freq(w,c)}{freq(c)}](https://render.githubusercontent.com/render/math?math=P(w%5Cvert%20c)%5C%3B%3D%5C%3B%5Cfrac%7Bfreq(w%2Cc)%7D%7Bfreq(c)%7D) `object-text-co-occurrence-(P(w|c)` 
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
 [6]:http://rrc.cvc.uab.es/?ch=5&com=tasks
