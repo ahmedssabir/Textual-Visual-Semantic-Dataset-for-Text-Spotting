@@ -78,8 +78,8 @@ $`\sqrt{2}`$- [x] word level
  ## Object and text co-occurrence database 
 - [x] word level 
 - [ ] sentence level
-- spotted word(gt), places/object- co-occurrence information between text and objects
-- The conditional probability of  object/text happen togaher in COCO-text <img src="https://render.githubusercontent.com/render/math?math=P(w%5Cvert%20c)%5C%3B%3D%5C%3B%5Cfrac%7Bfreq(w%2Cc)%7D%7Bfreq(c)%7D)"> `object-text-co-occurrence-(P(w|c)` 
+- spotted word(w), (c) places/object- co-occurrence information between text and objects
+- The conditional probability of  object/text happen togaher in COCO-text`object-text-co-occurrence-(P(w|c)`  <img src="https://render.githubusercontent.com/render/math?math=P(w%5Cvert%20c)%5C%3B%3D%5C%3B%5Cfrac%7Bfreq(w%2Cc)%7D%7Bfreq(c)%7D)"> 
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
 
 
