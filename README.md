@@ -62,7 +62,7 @@ $`\sqrt{2}`$- [x] word level
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
 
- ## Visual contexts 2 (image description, object, place) <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+ ## Visual contexts 2 (image description, object, place) 
 - [x] word level
 - [x] sentence level
  - Image_id, spotted word(gt/baseline), caption
