@@ -46,7 +46,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 [Places365-CNNs]:https://github.com/CSAILVision/places365
  
- ## For testing (object1, object2, places) `(word level)` 
+ ## For testing (object1, object2, places) 
  This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 
 - Image_id, spotted word(baseline), objects1,object2,places
@@ -58,7 +58,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
  - Example: `COCO_train2014_000000000081.jpg, airfracne,a large jetliner flying through the sky with a sky background ,airliner, airfield)`
  
  
- ## For testing  (image description) `(sentence level)` 
+ ## For testing  (image description) 
  This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
 - Image_id, spotted word(baseline),object_1, object_2, place, caption
 
