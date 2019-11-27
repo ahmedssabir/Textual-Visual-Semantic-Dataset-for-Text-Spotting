@@ -85,6 +85,8 @@ $`\sqrt{2}`$- [x] word level
 
 
 <img src="https://render.githubusercontent.com/render/math?math=P(w%5Cvert%20c)%5C%3B%3D%5C%3B%5Cfrac%7Bfreq(w%2Cc)%7D%7Bfreq(c)%7D)">
+
+
 [5]:http://rrc.cvc.uab.es/?ch=5&com=introduction
 [6]:http://rrc.cvc.uab.es/?ch=5&com=tasks
 
