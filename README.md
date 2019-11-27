@@ -91,5 +91,5 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [opensubtitle]:https://www.duo.uio.no/bitstream/handle/10852/50459
 
 ## Feedback
-Suggestions and opinions of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to asabir　◎ cs。upc。edu
+Suggestions and opinions of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to asabir◎cs。upc。edu
  
