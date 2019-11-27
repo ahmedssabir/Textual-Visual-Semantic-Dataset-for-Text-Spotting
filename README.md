@@ -4,7 +4,6 @@
 ![example](https://github.com/ahmedssabir/dataset/blob/master/example.jpg)
 
 
-## Related Publications
 This dataset has been used in these papers:
 
 Visual Re-ranking with Natural Language Understanding for Text Spotting https://arxiv.org/pdf/1810.12738.pdf `Updates Coming Soon`
