@@ -3,7 +3,7 @@
 
 ![example](https://github.com/ahmedssabir/dataset/blob/master/example.jpg)
 
-![example](https://github.com/ahmedssabir/dataset/blob/master/freq-all-1.jpg)
+
 This dataset has been used in these papers:
 
 Visual Re-ranking with Natural Language Understanding for Text Spotting https://arxiv.org/pdf/1810.12738.pdf `Updates Coming Soon`
@@ -36,7 +36,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 [Pre-trained]:http://www.vlfeat.org/matconvnet/pretrained
 
 
-
+## Visual contexts dataset statistics
  
  ## Visual contexts 1 (object, places*)  
  - Image_id, spotted word(gt), objects, places
