@@ -4,12 +4,14 @@
 ![example](https://github.com/ahmedssabir/dataset/blob/master/example.jpg)
 
 
+## Related Publications
 This dataset has been used in these papers:
 
 Visual Re-ranking with Natural Language Understanding for Text Spotting https://arxiv.org/pdf/1810.12738.pdf `Updates Coming Soon`
 
 Semantic Relatedness Based Re-ranker for Text Spotting https://arxiv.org/pdf/1909.07950.pdf  `coming soon`
 
+## Highlights
 This dataset is based on [COCO-text], Please visit https://github.com/andreasveit/coco-text. COCO-text is based on Microsoft COCO Please visit http://mscoco.org/ for more information on COCO-dataset, including the image data, object annotatins and caption annotations.
 
 [COCO-text]:https://github.com/andreasveit/coco-text
