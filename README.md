@@ -85,7 +85,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 - The conditional probability of object/text happen togaher in COCO-text as shown in the example above the sports channel (*kt*) with a *racket* `object-text-co-occurrence-(P(w|c).csv`  <img src="https://render.githubusercontent.com/render/math?math=P(w%5Cvert%20c)%5C%3B%3D%5C%3B%5Cfrac%7Bfreq(w%2Cc)%7D%7Bfreq(c)%7D)"> 
 - run `counting_pairs.py` to count the pairs (spotted text, object/place) happen together 
-- To get prob of pairs to happen together in COCO-text load `M = containers.Map(Pairs,Pairs_prob)`  then run the pairs `M(' kt racket')`  
+- To get P(w|C) of pairs to happen together in COCO-text load `M = containers.Map(Pairs,Pairs_prob)`  then run the pairs `M(' kt racket')`  
 
 
 
