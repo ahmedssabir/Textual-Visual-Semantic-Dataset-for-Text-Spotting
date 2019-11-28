@@ -78,6 +78,12 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
  ## Object and text co-occurrence database 
  ![example3](https://github.com/ahmedssabir/dataset/blob/master/SWE.jpg)
  
+ | Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+ 
 - [x] word level 
 - [ ] sentence level
 - spotted word(w), (c) places/object- co-occurrence information between text and objects
