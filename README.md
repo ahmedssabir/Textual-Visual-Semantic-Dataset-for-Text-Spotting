@@ -99,9 +99,9 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 ## Dictionary 300K 
 - Matlab 2018 
 - Load the [Pre-trained Dictionary] A) [opensubtitle](https://www.duo.uio.no/bitstream/handle/10852/50459/947_Paper.pdf?sequence=4)   or B) [enhanced version with google n-gram](https://books.google.com/ngrams/info)   
-- `runMap = containers.Map(T3w, T3N)` %A)Dic
-- `runMap = containers.Map(opensub_google_ngram_W, opensub_google_ngram_N) ` %B)Dic
-- `word = runMap('barcelona')`% get word  
+- `runMap = containers.Map(T3w, T3N) %A)Dic` 
+- `runMap = containers.Map(opensub_google_ngram_W, opensub_google_ngram_N) %B)Dic` 
+- `word = runMap('barcelona') % get word  `
 
 [Pre-trained Dictionary]:https://www.dropbox.com/sh/1af43nvlmac54ib/AADyRtK4ztyTS65hull1gyxMa?dl=0
 [opensubtitle]:https://www.duo.uio.no/bitstream/handle/10852/50459
