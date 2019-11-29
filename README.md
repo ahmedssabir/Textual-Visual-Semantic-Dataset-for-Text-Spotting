@@ -42,7 +42,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 
 
-  ## Visual contexts dataset (object, places*)  word level   
+  ## Visual contexts dataset (object, places*) 
 - [x] word level
 - [ ] sentence level
  - Image_id, spotted word(gt), objects, places
@@ -59,9 +59,8 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 - [x] word level
 - [ ] sentence level
 - This dataset from [ICDAR2017 Robust Reading Challenge on COCO-Text][5], [Task 3 End-to-End Recognition][6] 
-
 - Image_id, spotted word(baseline), objects1,object2,places
- -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
+-  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
 
  ## Visual contexts 2 (image description, object, place) 
 - [x] word level
