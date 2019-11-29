@@ -60,7 +60,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 
 - Image_id, spotted word(baseline), objects1,object2,places
  -  Example: `COCO_train2014_000000273358.jpg,barber,street,ticket_booth, barbershop`
-- Learning the sim between objects/places can be useful to filter out duplicated cases and false posstive example, load visual-pairs and visual-pairs and run  `M = containers.Map(pairsobject,cosine_sim)`   `M('airfield airliner'), M('crosswalk plaza'), etc ` 
+- Learning the sim/distance between two objects/places can be useful to filter out duplicated cases and false posstive example, load visual-pairs and visual-pairs and run  `M = containers.Map(pairsobject,cosine_sim)`   `M('airfield airliner'), M('crosswalk plaza'), etc ` 
 
  ## Visual contexts 2 (image description, object, place) 
 - [x] word level
