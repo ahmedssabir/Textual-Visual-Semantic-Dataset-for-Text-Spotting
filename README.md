@@ -48,7 +48,7 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
  - Image_id, spotted word(gt), objects, places
  -  Example: `COCO_train2014_000000000081.jpg,airfracne, airliner, airfield`
  - Learning the sim/distance between two objects/places can be useful to filter out duplicated cases and false posstive example. Load visual-pairs and visual-pairs models and run this precomputed model `M = containers.Map(pairsobject,cosine_sim)`   `M('airfield airliner'), M('crosswalk plaza'), etc` 
- - Kor you own dataset, run `sim.py` with glove (840 billion tokens) **better** *similiary score* or `sim-fastText` with fastText (600B billion tokens) with capability on handling out-of-vocabulary.
+ - Kor you own dataset, run `sim.py` with glove (840 billion tokens) **better** *similiary score* or `sim-fastText` with fastText (600B billion tokens) with capability on handling out-of-vocabulary (OOV).
  
 *You can find the model [Places365-CNNs] 
 
