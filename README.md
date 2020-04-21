@@ -11,6 +11,8 @@ This dataset has been used in these papers:
 `Semantic Relatedness Based Re-ranker for Text Spotting` https://arxiv.org/pdf/1909.07950.pdf  
 
 
+## Update April 21-4-2020
+The rest of the dataset (coming soon)
 ## Motivation
 Text Spotting in the Wild is a Computer Vision (CV) task consisting of detecting and recognizing text appearing in  images (e.g.  signboards, traffic signals or brands in clothing or objects). This is an unsolved problem due to the complexity of the context where texts appear (uneven backgrounds, shading, occlusions, perspective distortions, etc.). Only a few CV approaches try to exploit the relation between text and its surrounding environment to better recognize text in the scene. In this work, we propose a visual context dataset for Text Spotting in the wild, where the  publicly available dataset COCO-text Veit (veit *et al.*, 2016) has been extended with information about the scene (such as objects and places appearing in the image) to enable researchers to include on semantic relations between texts and scene in their Text Spotting systems, and to offer a common framework for such approaches.
 
