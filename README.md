@@ -3,8 +3,7 @@
 
 ![example](https://github.com/ahmedssabir/dataset/blob/master/example.jpg)
 
-# update
-An overview of the proposed approach of integrating textual visual semantic information to text spotting can be found in this [slide](https://www.dropbox.com/s/r4l9umh82xy0190/Visual_Semantic_Re_ranker-2.pdf?dl=0)
+
 
 This dataset has been used in these papers:
 
