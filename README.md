@@ -110,3 +110,17 @@ This dataset is based on [COCO-text], Please visit https://github.com/andreasvei
 ## Feedback 
  :raising_hand_man: Suggestions and opinions  of this dataset (both positive and negative) are greatly welcome :bowing_man:. Please contact the author by sending an email to asabir◎cs。upc。edu
  
+
+## Citation
+
+Please use the following bibtex entry:
+```bibtex
+@inproceedings{sabir2020textual,
+  title={Textual visual semantic dataset for text spotting},
+  author={Sabir, Ahmed and Moreno-Noguer, Francesc and Padr{\'o}, Llu{\'\i}s},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={542--543},
+  year={2020}
+}
+}
+```
