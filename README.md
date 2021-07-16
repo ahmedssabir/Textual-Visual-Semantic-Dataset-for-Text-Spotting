@@ -122,5 +122,4 @@ Please use the following bibtex entry:
   pages={542--543},
   year={2020}
 }
-}
 ```
